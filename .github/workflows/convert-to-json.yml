@@ -1,0 +1,35 @@
+name: Convert CSV to JSON
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyyaml
+        
+    - name: Generate JSON files
+      run: python generate_json.py
+      
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON files" && git push) 

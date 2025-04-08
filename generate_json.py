@@ -19,7 +19,9 @@ def read_csv_timetable(csv_path):
             if not row or not row[0]:  # Skip empty rows
                 continue
             hour = row[0]
-            minutes = [m for m in row[1:] if m]  # Filter out empty minutes
+            # Join all minutes columns and split by space
+            minutes_str = ' '.join(row[1:])
+            minutes = [m for m in minutes_str.split() if m]  # Filter out empty minutes
             if minutes:
                 timetable[hour] = minutes
     return timetable

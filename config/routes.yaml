@@ -1,0 +1,29 @@
+routes:
+  sho19:
+    name: 湘19
+    paths:
+      sho19_up:
+        name: 綾瀬車庫行
+        origin: 湘南台駅西口
+        via: 慶応大学・宮原
+        stops:
+          - name: 湘南台駅西口
+            cumulative_time: 0
+          - name: 円行上庭
+            cumulative_time: 1
+          - name: 北警察署前
+            cumulative_time: 2
+          - name: 工業団地入口
+            cumulative_time: 4
+          - name: 南大山
+            cumulative_time: 5
+          - name: 遠藤
+            cumulative_time: 7
+          - name: 藤沢ジャンボゴルフ前
+            cumulative_time: 8
+          - name: 慶応大学
+            cumulative_time: 11
+        csv_files:
+          weekday: csv/sho19_up_weekday.csv
+          saturday: csv/sho19_up_saturday.csv
+          sunday: csv/sho19_up_sunday.csv

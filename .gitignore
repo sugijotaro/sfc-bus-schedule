@@ -35,5 +35,7 @@ ENV/
 Thumbs.db
 
 # Project specific
+# JSON files are ignored in main branch but allowed in gh-pages
+!gh-pages/data/*.json
 data/*.json
 !data/.gitkeep 

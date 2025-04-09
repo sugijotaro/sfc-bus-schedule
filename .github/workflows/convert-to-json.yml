@@ -13,6 +13,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        ref: main
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -27,9 +29,21 @@ jobs:
     - name: Generate JSON files
       run: python generate_json.py
       
-    - name: Commit and push if changed
+    - name: Checkout gh-pages
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+        
+    - name: Copy generated files
       run: |
+        cp -r data gh-pages/
+        cp .nojekyll gh-pages/
+        
+    - name: Commit and push to gh-pages
+      run: |
+        cd gh-pages
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/
+        git add .
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON files" && git push) 

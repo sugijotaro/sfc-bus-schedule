@@ -5,7 +5,9 @@ routes:
       sho19_up:
         name: 綾瀬車庫行
         origin: 湘南台駅西口
+        destination: 綾瀬車庫
         via: 慶応大学・宮原
+        sfc_direction: from
         stops:
           - name: 湘南台駅西口
             cumulative_time: 0

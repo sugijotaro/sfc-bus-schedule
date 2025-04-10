@@ -7,6 +7,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -27,18 +30,23 @@ jobs:
         pip install pyyaml
         
     - name: Generate JSON files
-      run: python generate_json.py
-      
+      run: |
+        python generate_json.py
+        ls -la data/
+        
     - name: Checkout gh-pages
       uses: actions/checkout@v3
       with:
         ref: gh-pages
         path: gh-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Copy generated files
       run: |
+        ls -la
         cp -r data gh-pages/
         cp .nojekyll gh-pages/
+        ls -la gh-pages/
         
     - name: Commit and push to gh-pages
       run: |
@@ -46,4 +54,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
+        git status
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON files" && git push) 

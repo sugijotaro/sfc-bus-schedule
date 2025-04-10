@@ -11,20 +11,23 @@ def load_routes_config():
         return yaml.safe_load(f)
 
 def read_csv_timetable(csv_path):
-    """Read timetable from CSV file and convert to dictionary format"""
-    timetable = {}
+    """Read timetable from CSV file and convert to a flat list format with numeric time and minute values"""
+    timetable_list = []
     with open(csv_path, 'r', encoding='utf-8') as f:
         reader = csv.reader(f)
         for row in reader:
             if not row or not row[0]:  # Skip empty rows
                 continue
-            hour = row[0]
-            # Join all minutes columns and split by space
+            # Convert hour to integer
+            hour = int(row[0])
+            # Join all minute columns and split by space
             minutes_str = ' '.join(row[1:])
-            minutes = [m for m in minutes_str.split() if m]  # Filter out empty minutes
-            if minutes:
-                timetable[hour] = minutes
-    return timetable
+            # Convert each minute to an integer
+            minutes = [int(m) for m in minutes_str.split() if m]
+            # Append a dictionary for each minute with keys "time" and "minute"
+            for m in minutes:
+                timetable_list.append({"time": hour, "minute": m})
+    return timetable_list
 
 def generate_json_files():
     """Generate JSON files for all routes and paths"""
@@ -58,4 +61,4 @@ def generate_json_files():
                 print(f"Generated {output_file}")
 
 if __name__ == "__main__":
-    generate_json_files() 
+    generate_json_files()

@@ -44,4 +44,4 @@ data/*.json
 !gh-pages/data/*.json
 
 # For GitHub Actions: allow .json tracking in gh-pages
-!data/*.json
+# !data/*.json

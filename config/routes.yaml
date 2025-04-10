@@ -171,3 +171,20 @@ routes:
         csv_files:
           weekday: csv/sho25_to_weekday.csv
           saturday: csv/sho25_to_saturday.csv
+  sho28:
+    name: 湘28
+    paths:
+      sho28_to:
+        name: 直行 慶応中高等部前行
+        origin: 湘南台駅西口
+        destination: 慶応中高等部前
+        via: 直行
+        sfc_direction: to
+        stops:
+          - name: 湘南台駅西口
+            cumulative_time: 0
+          - name: 慶応中高等部前
+            cumulative_time: 13
+        csv_files:
+          weekday: csv/sho28_to_weekday.csv
+          saturday: csv/sho28_to_saturday.csv

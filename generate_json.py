@@ -59,7 +59,7 @@ def generate_json_files():
 
 
 def generate_aggregated_json_files():
-    """Generate aggregated JSON files for each sfc_direction and schedule type; output to data/aggregated/"""
+    """Generate aggregated JSON files for each sfc_direction and schedule type; output to data/flat/"""
     config = load_routes_config()
     aggregated = {
         "to_weekday": [],
@@ -130,11 +130,12 @@ def generate_aggregated_json_files():
     for key in aggregated:
         aggregated[key].sort(key=lambda x: x["time"] * 60 + x["minute"])
 
-    output_dir = os.path.join("data", "aggregated")
+    output_dir = os.path.join("data", "flat")
     os.makedirs(output_dir, exist_ok=True)
 
     for key, records in aggregated.items():
-        output_file = os.path.join(output_dir, f"{key}.json")
+        direction, day = key.split("_")
+        output_file = os.path.join(output_dir, f"{direction}_sfc_{day}.json")
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(records, f, ensure_ascii=False, indent=2)
         print(f"Generated {output_file}")

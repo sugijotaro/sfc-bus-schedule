@@ -56,8 +56,8 @@ jobs:
         cd gh-pages
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Force add generated JSON files to override .gitignore
-        git add --force data/*.json
+        # Force add all files under the data directory to override .gitignore
+        git add --force data/
         git status
         if ! git diff --quiet || ! git diff --staged --quiet; then
           git commit -m "Update JSON files"

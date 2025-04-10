@@ -5,6 +5,8 @@ import csv
 import json
 from pathlib import Path
 
+VERSION = "v1"
+
 
 def load_routes_config():
     """Load routes configuration from YAML file"""
@@ -29,9 +31,9 @@ def read_csv_timetable(csv_path):
 
 
 def generate_json_files():
-    """Generate route JSON files for all routes and paths; output to data/route/"""
+    """Generate route JSON files for all routes and paths; output to data/VERSION/route/"""
     config = load_routes_config()
-    output_dir = os.path.join("data", "route")
+    output_dir = os.path.join("data", VERSION, "route")
     os.makedirs(output_dir, exist_ok=True)
 
     for route_id, route_data in config["routes"].items():
@@ -59,7 +61,7 @@ def generate_json_files():
 
 
 def generate_aggregated_json_files():
-    """Generate aggregated JSON files for each sfc_direction and schedule type; output to data/flat/"""
+    """Generate aggregated JSON files for each sfc_direction and schedule type; output to data/VERSION/flat/"""
     config = load_routes_config()
     aggregated = {
         "to_weekday": [],
@@ -130,7 +132,7 @@ def generate_aggregated_json_files():
     for key in aggregated:
         aggregated[key].sort(key=lambda x: x["time"] * 60 + x["minute"])
 
-    output_dir = os.path.join("data", "flat")
+    output_dir = os.path.join("data", VERSION, "flat")
     os.makedirs(output_dir, exist_ok=True)
 
     for key, records in aggregated.items():

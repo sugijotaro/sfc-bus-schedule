@@ -112,6 +112,32 @@ routes:
             cumulative_time: 11
         csv_files:
           sunday: csv/sho23_to_sun_sunday.csv
+      sho23_from_honkan:
+        name: 湘南台駅西口行
+        origin: 慶応大学本館前
+        destination: 湘南台駅西口
+        via: 遠藤
+        sfc_direction: from
+        stops:
+          - name: 慶応大学本館前
+            cumulative_time: 0
+          - name: 慶応大学
+            cumulative_time: 1
+          - name: 藤沢ジャンボゴルフ前
+            cumulative_time: 2
+          - name: 遠藤
+            cumulative_time: 3
+          - name: 南大山
+            cumulative_time: 5
+          - name: 工業団地入口
+            cumulative_time: 6
+          - name: 北警察署前
+            cumulative_time: 7
+          - name: 湘南台駅西口
+            cumulative_time: 13
+        csv_files:
+          weekday: csv/sho23_from_honkan_weekday.csv
+          saturday: csv/sho23_from_honkan_saturday.csv
   sho24:
     name: 湘24
     paths:

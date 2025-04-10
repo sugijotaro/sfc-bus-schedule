@@ -33,7 +33,7 @@ jobs:
         
     - name: Generate JSON files
       run: |
-        python generate_json.py
+        python generate_json_v1.py
         ls -la data/
         
     - name: Checkout gh-pages branch

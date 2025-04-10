@@ -18,7 +18,9 @@ jobs:
     - uses: actions/checkout@v3
       with:
         ref: main
-    
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -34,25 +36,32 @@ jobs:
         python generate_json.py
         ls -la data/
         
-    - name: Checkout gh-pages
+    - name: Checkout gh-pages branch
       uses: actions/checkout@v3
       with:
         ref: gh-pages
         path: gh-pages
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
         
-    - name: Copy generated files
+    - name: Update gh-pages data using rsync
       run: |
-        ls -la
-        cp -r data gh-pages/
+        mkdir -p gh-pages/data
+        rsync -av --delete data/ gh-pages/data/
         cp .nojekyll gh-pages/
-        ls -la gh-pages/
+        ls -la gh-pages/data/
         
-    - name: Commit and push to gh-pages
+    - name: Commit and push changes to gh-pages
       run: |
         cd gh-pages
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
+        # Force add generated JSON files to override .gitignore
+        git add --force data/*.json
         git status
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON files" && git push) 
+        if ! git diff --quiet || ! git diff --staged --quiet; then
+          git commit -m "Update JSON files"
+          git push
+        else
+          echo "No changes to commit"
+        fi

@@ -54,3 +54,61 @@ routes:
           weekday: csv/sho19_from_weekday.csv
           saturday: csv/sho19_from_saturday.csv
           sunday: csv/sho19_from_sunday.csv
+  sho23:
+    name: 湘23
+    paths:
+      sho23_to:
+        name: 慶応中高等部前行
+        origin: 湘南台駅西口
+        destination: 慶応中高等部前
+        via: 遠藤
+        sfc_direction: to
+        stops:
+          - name: 湘南台駅西口
+            cumulative_time: 0
+          - name: 円行上庭
+            cumulative_time: 1
+          - name: 北警察署前
+            cumulative_time: 2
+          - name: 工業団地入口
+            cumulative_time: 4
+          - name: 南大山
+            cumulative_time: 5
+          - name: 遠藤
+            cumulative_time: 7
+          - name: 藤沢ジャンボゴルフ前
+            cumulative_time: 8
+          - name: 慶応大学
+            cumulative_time: 11
+          - name: 慶応大学本館前
+            cumulative_time: 12
+          - name: 慶応中高等部前
+            cumulative_time: 15
+        csv_files:
+          weekday: csv/sho23_to_weekday.csv
+          saturday: csv/sho23_to_saturday.csv
+      sho23_to_sun:
+        name: 慶応大学行
+        origin: 湘南台駅西口
+        destination: 慶応大学
+        via: 遠藤
+        sfc_direction: to
+        stops:
+          - name: 湘南台駅西口
+            cumulative_time: 0
+          - name: 円行上庭
+            cumulative_time: 1
+          - name: 北警察署前
+            cumulative_time: 2
+          - name: 工業団地入口
+            cumulative_time: 4
+          - name: 南大山
+            cumulative_time: 5
+          - name: 遠藤
+            cumulative_time: 7
+          - name: 藤沢ジャンボゴルフ前
+            cumulative_time: 8
+          - name: 慶応大学
+            cumulative_time: 11
+        csv_files:
+          sunday: csv/sho23_to_sun_sunday.csv

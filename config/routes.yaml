@@ -229,7 +229,7 @@ routes:
   sho25:
     name: 湘25
     paths:
-      sho24_to:
+      sho25_to:
         name: ツインライナー 急行・慶応大学行
         origin: 湘南台駅西口
         destination: 慶応中高等部前

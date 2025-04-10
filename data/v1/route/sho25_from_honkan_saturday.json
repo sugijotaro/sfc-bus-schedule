@@ -1,0 +1,124 @@
+{
+  "route_id": "sho25",
+  "path_id": "sho25_from_honkan",
+  "name": "ツインライナー 急行・湘南台駅西口行",
+  "origin": "慶応大学本館前",
+  "destination": "湘南台駅西口",
+  "via": "ツインライナー急行・南大山",
+  "stops": [
+    {
+      "name": "慶応大学本館前",
+      "cumulative_time": 0
+    },
+    {
+      "name": "慶応大学",
+      "cumulative_time": 1
+    },
+    {
+      "name": "南大山",
+      "cumulative_time": 5
+    },
+    {
+      "name": "湘南台駅西口",
+      "cumulative_time": 16
+    }
+  ],
+  "timetable": [
+    {
+      "time": 12,
+      "minute": 48
+    },
+    {
+      "time": 12,
+      "minute": 55
+    },
+    {
+      "time": 13,
+      "minute": 2
+    },
+    {
+      "time": 13,
+      "minute": 9
+    },
+    {
+      "time": 13,
+      "minute": 27
+    },
+    {
+      "time": 13,
+      "minute": 35
+    },
+    {
+      "time": 13,
+      "minute": 43
+    },
+    {
+      "time": 13,
+      "minute": 51
+    },
+    {
+      "time": 14,
+      "minute": 0
+    },
+    {
+      "time": 14,
+      "minute": 10
+    },
+    {
+      "time": 14,
+      "minute": 27
+    },
+    {
+      "time": 14,
+      "minute": 47
+    },
+    {
+      "time": 15,
+      "minute": 7
+    },
+    {
+      "time": 15,
+      "minute": 40
+    },
+    {
+      "time": 15,
+      "minute": 55
+    },
+    {
+      "time": 16,
+      "minute": 10
+    },
+    {
+      "time": 16,
+      "minute": 40
+    },
+    {
+      "time": 16,
+      "minute": 55
+    },
+    {
+      "time": 17,
+      "minute": 10
+    },
+    {
+      "time": 17,
+      "minute": 35
+    },
+    {
+      "time": 17,
+      "minute": 50
+    },
+    {
+      "time": 18,
+      "minute": 5
+    },
+    {
+      "time": 18,
+      "minute": 40
+    },
+    {
+      "time": 18,
+      "minute": 55
+    }
+  ]
+}

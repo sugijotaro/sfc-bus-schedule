@@ -1,0 +1,72 @@
+{
+  "route_id": "sho24",
+  "path_id": "sho24_from",
+  "name": "湘南台駅西口行",
+  "origin": "慶応大学",
+  "destination": "湘南台駅西口",
+  "via": "笹久保・遠藤",
+  "stops": [
+    {
+      "name": "慶応大学",
+      "cumulative_time": 0
+    },
+    {
+      "name": "笹久保",
+      "cumulative_time": 2
+    },
+    {
+      "name": "仲之桜",
+      "cumulative_time": 3
+    },
+    {
+      "name": "六地蔵",
+      "cumulative_time": 4
+    },
+    {
+      "name": "遠藤",
+      "cumulative_time": 5
+    },
+    {
+      "name": "南大山",
+      "cumulative_time": 7
+    },
+    {
+      "name": "工業団地入口",
+      "cumulative_time": 8
+    },
+    {
+      "name": "北警察署前",
+      "cumulative_time": 9
+    },
+    {
+      "name": "湘南台駅西口",
+      "cumulative_time": 15
+    }
+  ],
+  "timetable": [
+    {
+      "time": 7,
+      "minute": 2
+    },
+    {
+      "time": 8,
+      "minute": 2
+    },
+    {
+      "time": 9,
+      "minute": 0
+    },
+    {
+      "time": 10,
+      "minute": 7
+    },
+    {
+      "time": 11,
+      "minute": 0
+    },
+    {
+      "time": 12,
+      "minute": 5
+    }
+  ]
+}

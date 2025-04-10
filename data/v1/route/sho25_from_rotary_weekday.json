@@ -1,0 +1,164 @@
+{
+  "route_id": "sho25",
+  "path_id": "sho25_from_rotary",
+  "name": "ツインライナー 急行・湘南台駅西口行",
+  "origin": "慶応大学",
+  "destination": "湘南台駅西口",
+  "via": "ツインライナー急行・南大山",
+  "stops": [
+    {
+      "name": "慶応大学",
+      "cumulative_time": 0
+    },
+    {
+      "name": "南大山",
+      "cumulative_time": 4
+    },
+    {
+      "name": "湘南台駅西口",
+      "cumulative_time": 13
+    }
+  ],
+  "timetable": [
+    {
+      "time": 7,
+      "minute": 0
+    },
+    {
+      "time": 7,
+      "minute": 6
+    },
+    {
+      "time": 7,
+      "minute": 11
+    },
+    {
+      "time": 7,
+      "minute": 18
+    },
+    {
+      "time": 7,
+      "minute": 24
+    },
+    {
+      "time": 7,
+      "minute": 30
+    },
+    {
+      "time": 7,
+      "minute": 41
+    },
+    {
+      "time": 7,
+      "minute": 45
+    },
+    {
+      "time": 7,
+      "minute": 49
+    },
+    {
+      "time": 7,
+      "minute": 54
+    },
+    {
+      "time": 8,
+      "minute": 1
+    },
+    {
+      "time": 8,
+      "minute": 9
+    },
+    {
+      "time": 8,
+      "minute": 15
+    },
+    {
+      "time": 8,
+      "minute": 22
+    },
+    {
+      "time": 8,
+      "minute": 27
+    },
+    {
+      "time": 8,
+      "minute": 32
+    },
+    {
+      "time": 8,
+      "minute": 37
+    },
+    {
+      "time": 8,
+      "minute": 42
+    },
+    {
+      "time": 8,
+      "minute": 49
+    },
+    {
+      "time": 8,
+      "minute": 57
+    },
+    {
+      "time": 9,
+      "minute": 5
+    },
+    {
+      "time": 9,
+      "minute": 13
+    },
+    {
+      "time": 9,
+      "minute": 25
+    },
+    {
+      "time": 9,
+      "minute": 49
+    },
+    {
+      "time": 9,
+      "minute": 59
+    },
+    {
+      "time": 10,
+      "minute": 19
+    },
+    {
+      "time": 11,
+      "minute": 40
+    },
+    {
+      "time": 11,
+      "minute": 50
+    },
+    {
+      "time": 12,
+      "minute": 0
+    },
+    {
+      "time": 12,
+      "minute": 25
+    },
+    {
+      "time": 12,
+      "minute": 45
+    },
+    {
+      "time": 12,
+      "minute": 55
+    },
+    {
+      "time": 13,
+      "minute": 5
+    },
+    {
+      "time": 13,
+      "minute": 45
+    },
+    {
+      "time": 14,
+      "minute": 0
+    }
+  ]
+}

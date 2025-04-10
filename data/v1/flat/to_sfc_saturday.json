@@ -1,5 +1,229 @@
 [
   {
+    "id": "sho250717",
+    "time": 7,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 17
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 22
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 26
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 7,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250723",
+    "time": 7,
+    "minute": 23,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 23
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 32
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 7,
+            "minute": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250729",
+    "time": 7,
+    "minute": 29,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 29
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 34
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 41
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 7,
+            "minute": 44
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250734",
+    "time": 7,
+    "minute": 34,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 34
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 7,
+            "minute": 49
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho230737",
     "time": 7,
     "minute": 37,
@@ -96,6 +320,62 @@
     }
   },
   {
+    "id": "sho250741",
+    "time": 7,
+    "minute": 41,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 41
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 7,
+            "minute": 56
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho190745",
     "time": 7,
     "minute": 45,
@@ -170,6 +450,702 @@
           "arrival": {
             "time": 7,
             "minute": 56
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250747",
+    "time": 7,
+    "minute": 47,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 47
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 52
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 7,
+            "minute": 56
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 59
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280748",
+    "time": 7,
+    "minute": 48,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250753",
+    "time": 7,
+    "minute": 53,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 53
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 2
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280753",
+    "time": 7,
+    "minute": 53,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280757",
+    "time": 7,
+    "minute": 57,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 57
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250759",
+    "time": 7,
+    "minute": 59,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 59
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 4
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 11
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 14
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280801",
+    "time": 8,
+    "minute": 1,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 14
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250804",
+    "time": 8,
+    "minute": 4,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 4
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 19
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280805",
+    "time": 8,
+    "minute": 5,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 18
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250808",
+    "time": 8,
+    "minute": 8,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 8
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 23
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250812",
+    "time": 8,
+    "minute": 12,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 21
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho280812",
+    "time": 8,
+    "minute": 12,
+    "scheduleType": "saturday",
+    "routeCode": "sho28",
+    "routeName": "湘28",
+    "name": "直行 慶応中高等部前行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "直行",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250817",
+    "time": 8,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 17
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 22
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 26
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250824",
+    "time": 8,
+    "minute": 24,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 24
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 33
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 36
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250833",
+    "time": 8,
+    "minute": 33,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 33
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 45
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 48
           }
         }
       ]
@@ -256,6 +1232,174 @@
     }
   },
   {
+    "id": "sho250842",
+    "time": 8,
+    "minute": 42,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 51
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 54
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 57
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250851",
+    "time": 8,
+    "minute": 51,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 51
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 56
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 0
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 3
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250859",
+    "time": 8,
+    "minute": 59,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 59
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 4
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 11
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 14
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho190910",
     "time": 9,
     "minute": 10,
@@ -330,6 +1474,174 @@
           "arrival": {
             "time": 9,
             "minute": 21
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250910",
+    "time": 9,
+    "minute": 10,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 10
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 15
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 19
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 22
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250922",
+    "time": 9,
+    "minute": 22,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 22
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 31
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 34
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 37
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250935",
+    "time": 9,
+    "minute": 35,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 40
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 50
           }
         }
       ]
@@ -506,6 +1818,118 @@
           "arrival": {
             "time": 10,
             "minute": 11
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251000",
+    "time": 10,
+    "minute": 0,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 10,
+            "minute": 15
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251015",
+    "time": 10,
+    "minute": 15,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 10,
+            "minute": 30
           }
         }
       ]
@@ -784,6 +2208,174 @@
     }
   },
   {
+    "id": "sho251100",
+    "time": 11,
+    "minute": 0,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 15
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251115",
+    "time": 11,
+    "minute": 15,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251135",
+    "time": 11,
+    "minute": 35,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 40
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 50
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho191140",
     "time": 11,
     "minute": 40,
@@ -960,6 +2552,174 @@
     }
   },
   {
+    "id": "sho251200",
+    "time": 12,
+    "minute": 0,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 15
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251215",
+    "time": 12,
+    "minute": 15,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251230",
+    "time": 12,
+    "minute": 30,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 30
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 42
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 45
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho191239",
     "time": 12,
     "minute": 39,
@@ -1034,6 +2794,62 @@
           "arrival": {
             "time": 12,
             "minute": 50
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251240",
+    "time": 12,
+    "minute": 40,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 40
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 45
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 49
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 52
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 55
           }
         }
       ]
@@ -1130,6 +2946,286 @@
           "arrival": {
             "time": 13,
             "minute": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251300",
+    "time": 13,
+    "minute": 0,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 15
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251311",
+    "time": 13,
+    "minute": 11,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 11
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 26
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251318",
+    "time": 13,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 18
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 30
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 33
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251325",
+    "time": 13,
+    "minute": 25,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 25
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 30
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 34
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 40
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251332",
+    "time": 13,
+    "minute": 32,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 41
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 47
           }
         }
       ]
@@ -1312,6 +3408,342 @@
     }
   },
   {
+    "id": "sho251350",
+    "time": 13,
+    "minute": 50,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 55
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 59
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 2
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251358",
+    "time": 13,
+    "minute": 58,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 58
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 3
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 7
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 10
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 13
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251406",
+    "time": 14,
+    "minute": 6,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 6
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 11
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 15
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 18
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 21
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251414",
+    "time": 14,
+    "minute": 14,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 14
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 19
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 26
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 29
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251423",
+    "time": 14,
+    "minute": 23,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 23
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 32
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 38
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251433",
+    "time": 14,
+    "minute": 33,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 33
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 42
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 45
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 48
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho191440",
     "time": 14,
     "minute": 40,
@@ -1482,6 +3914,174 @@
           "arrival": {
             "time": 15,
             "minute": 0
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251450",
+    "time": 14,
+    "minute": 50,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 55
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 59
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 2
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 15,
+            "minute": 5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251510",
+    "time": 15,
+    "minute": 10,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 10
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 15
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 19
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 22
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 15,
+            "minute": 25
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251530",
+    "time": 15,
+    "minute": 30,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 30
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 42
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 15,
+            "minute": 45
           }
         }
       ]
@@ -1664,6 +4264,174 @@
     }
   },
   {
+    "id": "sho251605",
+    "time": 16,
+    "minute": 5,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 5
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 10
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 16,
+            "minute": 14
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 16,
+            "minute": 20
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251620",
+    "time": 16,
+    "minute": 20,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 20
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 25
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 16,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 32
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 16,
+            "minute": 35
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251635",
+    "time": 16,
+    "minute": 35,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 40
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 16,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 16,
+            "minute": 50
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho191640",
     "time": 16,
     "minute": 40,
@@ -1834,6 +4602,174 @@
           "arrival": {
             "time": 17,
             "minute": 5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251705",
+    "time": 17,
+    "minute": 5,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 5
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 10
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 17,
+            "minute": 14
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 17,
+            "minute": 20
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251720",
+    "time": 17,
+    "minute": 20,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 20
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 25
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 17,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 32
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 17,
+            "minute": 35
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251735",
+    "time": 17,
+    "minute": 35,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 40
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 17,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 17,
+            "minute": 50
           }
         }
       ]
@@ -2016,6 +4952,118 @@
     }
   },
   {
+    "id": "sho251815",
+    "time": 18,
+    "minute": 15,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 18,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 18,
+            "minute": 27
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 18,
+            "minute": 30
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251830",
+    "time": 18,
+    "minute": 30,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 30
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 18,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 18,
+            "minute": 42
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 18,
+            "minute": 45
+          }
+        }
+      ]
+    }
+  },
+  {
     "id": "sho191840",
     "time": 18,
     "minute": 40,
@@ -2186,6 +5234,118 @@
           "arrival": {
             "time": 19,
             "minute": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251903",
+    "time": 19,
+    "minute": 3,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 19,
+            "minute": 3
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 19,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 19,
+            "minute": 12
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 19,
+            "minute": 15
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 19,
+            "minute": 18
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251920",
+    "time": 19,
+    "minute": 20,
+    "scheduleType": "saturday",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 19,
+            "minute": 20
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 19,
+            "minute": 25
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 19,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 19,
+            "minute": 32
+          }
+        },
+        {
+          "name": "慶応中高等部前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 19,
+            "minute": 35
           }
         }
       ]

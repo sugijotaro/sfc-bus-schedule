@@ -1,0 +1,108 @@
+{
+  "route_id": "sho23",
+  "path_id": "sho23_from_honkan",
+  "name": "湘南台駅西口行",
+  "origin": "慶応大学本館前",
+  "destination": "湘南台駅西口",
+  "via": "遠藤",
+  "stops": [
+    {
+      "name": "慶応大学本館前",
+      "cumulative_time": 0
+    },
+    {
+      "name": "慶応大学",
+      "cumulative_time": 1
+    },
+    {
+      "name": "藤沢ジャンボゴルフ前",
+      "cumulative_time": 2
+    },
+    {
+      "name": "遠藤",
+      "cumulative_time": 3
+    },
+    {
+      "name": "南大山",
+      "cumulative_time": 5
+    },
+    {
+      "name": "工業団地入口",
+      "cumulative_time": 6
+    },
+    {
+      "name": "北警察署前",
+      "cumulative_time": 7
+    },
+    {
+      "name": "湘南台駅西口",
+      "cumulative_time": 13
+    }
+  ],
+  "timetable": [
+    {
+      "time": 14,
+      "minute": 39
+    },
+    {
+      "time": 14,
+      "minute": 59
+    },
+    {
+      "time": 15,
+      "minute": 8
+    },
+    {
+      "time": 15,
+      "minute": 50
+    },
+    {
+      "time": 15,
+      "minute": 56
+    },
+    {
+      "time": 16,
+      "minute": 18
+    },
+    {
+      "time": 19,
+      "minute": 50
+    },
+    {
+      "time": 20,
+      "minute": 5
+    },
+    {
+      "time": 20,
+      "minute": 20
+    },
+    {
+      "time": 20,
+      "minute": 35
+    },
+    {
+      "time": 20,
+      "minute": 50
+    },
+    {
+      "time": 21,
+      "minute": 0
+    },
+    {
+      "time": 21,
+      "minute": 15
+    },
+    {
+      "time": 21,
+      "minute": 35
+    },
+    {
+      "time": 21,
+      "minute": 50
+    },
+    {
+      "time": 22,
+      "minute": 35
+    }
+  ]
+}

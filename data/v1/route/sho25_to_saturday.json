@@ -1,0 +1,244 @@
+{
+  "route_id": "sho25",
+  "path_id": "sho25_to",
+  "name": "ツインライナー 急行・慶応大学行",
+  "origin": "湘南台駅西口",
+  "destination": "慶応中高等部前",
+  "via": "ツインライナー急行・南大山",
+  "stops": [
+    {
+      "name": "湘南台駅西口",
+      "cumulative_time": 0
+    },
+    {
+      "name": "南大山",
+      "cumulative_time": 5
+    },
+    {
+      "name": "慶応大学",
+      "cumulative_time": 9
+    },
+    {
+      "name": "慶応大学本館前",
+      "cumulative_time": 12
+    },
+    {
+      "name": "慶応中高等部前",
+      "cumulative_time": 15
+    }
+  ],
+  "timetable": [
+    {
+      "time": 7,
+      "minute": 17
+    },
+    {
+      "time": 7,
+      "minute": 23
+    },
+    {
+      "time": 7,
+      "minute": 29
+    },
+    {
+      "time": 7,
+      "minute": 34
+    },
+    {
+      "time": 7,
+      "minute": 41
+    },
+    {
+      "time": 7,
+      "minute": 47
+    },
+    {
+      "time": 7,
+      "minute": 53
+    },
+    {
+      "time": 7,
+      "minute": 59
+    },
+    {
+      "time": 8,
+      "minute": 4
+    },
+    {
+      "time": 8,
+      "minute": 8
+    },
+    {
+      "time": 8,
+      "minute": 12
+    },
+    {
+      "time": 8,
+      "minute": 17
+    },
+    {
+      "time": 8,
+      "minute": 24
+    },
+    {
+      "time": 8,
+      "minute": 33
+    },
+    {
+      "time": 8,
+      "minute": 42
+    },
+    {
+      "time": 8,
+      "minute": 51
+    },
+    {
+      "time": 8,
+      "minute": 59
+    },
+    {
+      "time": 9,
+      "minute": 10
+    },
+    {
+      "time": 9,
+      "minute": 22
+    },
+    {
+      "time": 9,
+      "minute": 35
+    },
+    {
+      "time": 10,
+      "minute": 0
+    },
+    {
+      "time": 10,
+      "minute": 15
+    },
+    {
+      "time": 11,
+      "minute": 0
+    },
+    {
+      "time": 11,
+      "minute": 15
+    },
+    {
+      "time": 11,
+      "minute": 35
+    },
+    {
+      "time": 12,
+      "minute": 0
+    },
+    {
+      "time": 12,
+      "minute": 15
+    },
+    {
+      "time": 12,
+      "minute": 30
+    },
+    {
+      "time": 12,
+      "minute": 40
+    },
+    {
+      "time": 13,
+      "minute": 0
+    },
+    {
+      "time": 13,
+      "minute": 11
+    },
+    {
+      "time": 13,
+      "minute": 18
+    },
+    {
+      "time": 13,
+      "minute": 25
+    },
+    {
+      "time": 13,
+      "minute": 32
+    },
+    {
+      "time": 13,
+      "minute": 50
+    },
+    {
+      "time": 13,
+      "minute": 58
+    },
+    {
+      "time": 14,
+      "minute": 6
+    },
+    {
+      "time": 14,
+      "minute": 14
+    },
+    {
+      "time": 14,
+      "minute": 23
+    },
+    {
+      "time": 14,
+      "minute": 33
+    },
+    {
+      "time": 14,
+      "minute": 50
+    },
+    {
+      "time": 15,
+      "minute": 10
+    },
+    {
+      "time": 15,
+      "minute": 30
+    },
+    {
+      "time": 16,
+      "minute": 5
+    },
+    {
+      "time": 16,
+      "minute": 20
+    },
+    {
+      "time": 16,
+      "minute": 35
+    },
+    {
+      "time": 17,
+      "minute": 5
+    },
+    {
+      "time": 17,
+      "minute": 20
+    },
+    {
+      "time": 17,
+      "minute": 35
+    },
+    {
+      "time": 18,
+      "minute": 15
+    },
+    {
+      "time": 18,
+      "minute": 30
+    },
+    {
+      "time": 19,
+      "minute": 3
+    },
+    {
+      "time": 19,
+      "minute": 20
+    }
+  ]
+}

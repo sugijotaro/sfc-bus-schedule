@@ -107,8 +107,23 @@ def generate_aggregated_json_files():
                             ),
                         ),
                         "via": path_data.get("via", ""),
-                        "metadata": {"stops": path_data.get("stops", [])},
+                        "metadata": {},
                     }
+                    departure_total = hour * 60 + minute
+                    new_stops = []
+                    for stop in path_data.get("stops", []):
+                        offset = stop.get("cumulative_time", 0)
+                        arrival_total = departure_total + offset
+                        arrival_hour = arrival_total // 60
+                        arrival_minute = arrival_total % 60
+                        new_stop = stop.copy()
+                        new_stop["arrival"] = {
+                            "time": arrival_hour,
+                            "minute": arrival_minute,
+                        }
+                        new_stops.append(new_stop)
+                    record["metadata"]["stops"] = new_stops
+
                     agg_key = f"{sfc_direction}_{schedule_type}"
                     aggregated[agg_key].append(record)
 

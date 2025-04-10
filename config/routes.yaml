@@ -112,3 +112,39 @@ routes:
             cumulative_time: 11
         csv_files:
           sunday: csv/sho23_to_sun_sunday.csv
+  sho24:
+    name: 湘24
+    paths:
+      sho24_to:
+        name: 慶応中高等部前行
+        origin: 湘南台駅西口
+        destination: 慶応中高等部前
+        via: 遠藤・笹久保
+        sfc_direction: to
+        stops:
+          - name: 湘南台駅西口
+            cumulative_time: 0
+          - name: 円行上庭
+            cumulative_time: 1
+          - name: 北警察署前
+            cumulative_time: 2
+          - name: 工業団地入口
+            cumulative_time: 4
+          - name: 南大山
+            cumulative_time: 5
+          - name: 遠藤
+            cumulative_time: 7
+          - name: 六地蔵
+            cumulative_time: 9
+          - name: 仲之桜
+            cumulative_time: 10
+          - name: 笹久保
+            cumulative_time: 11
+          - name: 慶応大学
+            cumulative_time: 13
+          - name: 慶応大学本館前
+            cumulative_time: 14
+          - name: 慶応中高等部前
+            cumulative_time: 16
+        csv_files:
+          weekday: csv/sho24_to_weekday.csv

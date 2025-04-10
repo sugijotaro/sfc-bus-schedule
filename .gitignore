@@ -35,6 +35,13 @@ ENV/
 Thumbs.db
 
 # Project specific
-data/*.json
-!data/.gitkeep 
-/data
+# JSON files are ignored in main branch but allowed in gh-pages
+data/
+!data/.gitkeep
+
+# Allow JSON in gh-pages branch
+# Override in workflow
+!gh-pages/data/*.json
+
+# For GitHub Actions: allow .json tracking in gh-pages
+# !data/

@@ -92,6 +92,18 @@
 ]
 ```
 
+## APIの利用方法
+
+生成されたJSONは以下のURLで直接アクセス可能です：
+
+- 路線別JSON: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/route/{route_id}_{direction}_{schedule_type}.json`
+  - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/route/sho19_from_saturday.json`
+
+- フラットJSON: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/{direction}_{schedule_type}.json`
+  - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/from_sfc_saturday.json`
+
+これらのURLに直接アクセスすることで、JSONデータを取得できます。CORSも有効になっているため、Webアプリケーションから直接利用可能です。
+
 ## ブランチ構成
 
 - `main`: 安定版のリリースブランチ

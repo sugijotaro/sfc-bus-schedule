@@ -249,6 +249,24 @@ routes:
         csv_files:
           weekday: csv/sho25_to_weekday.csv
           saturday: csv/sho25_to_saturday.csv
+      sho25_from_honkan:
+        name: ツインライナー 急行・湘南台駅西口行
+        origin: 慶応大学本館前
+        destination: 湘南台駅西口
+        via: ツインライナー急行・南大山
+        sfc_direction: from
+        stops:
+          - name: 慶応大学本館前
+            cumulative_time: 0
+          - name: 慶応大学
+            cumulative_time: 1
+          - name: 南大山
+            cumulative_time: 5
+          - name: 湘南台駅西口
+            cumulative_time: 16
+        csv_files:
+          weekday: csv/sho25_from_honkan_weekday.csv
+          saturday: csv/sho25_from_honkan_saturday.csv
   sho28:
     name: 湘28
     paths:

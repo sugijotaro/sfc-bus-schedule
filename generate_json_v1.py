@@ -109,6 +109,7 @@ def generate_aggregated_json_files():
                             ),
                         ),
                         "via": path_data.get("via", ""),
+                        "sfc_direction": f"{sfc_direction}_sfc",
                         "metadata": {},
                     }
                     departure_total = hour * 60 + minute

@@ -10,6 +10,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -50,6 +51,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -90,6 +92,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -130,6 +133,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -202,6 +206,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -242,6 +247,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -282,6 +288,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -322,6 +329,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -362,6 +370,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -402,6 +411,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -442,6 +452,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -482,6 +493,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -522,6 +534,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -594,6 +607,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -634,6 +648,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -674,6 +689,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -714,6 +730,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -786,6 +803,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -826,6 +844,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -898,6 +917,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -938,6 +958,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1010,6 +1031,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1050,6 +1072,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1090,6 +1113,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1162,6 +1186,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1202,6 +1227,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1274,6 +1300,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1314,6 +1341,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1386,6 +1414,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1458,6 +1487,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1498,6 +1528,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1538,6 +1569,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1610,6 +1642,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1650,6 +1683,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1722,6 +1756,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1762,6 +1797,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1802,6 +1838,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1842,6 +1879,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1914,6 +1952,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1954,6 +1993,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -1994,6 +2034,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2042,6 +2083,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2090,6 +2132,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2138,6 +2181,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2186,6 +2230,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2258,6 +2303,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2338,6 +2384,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2418,6 +2465,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2498,6 +2546,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2546,6 +2595,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2594,6 +2644,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2642,6 +2693,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2690,6 +2742,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2738,6 +2791,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2786,6 +2840,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2858,6 +2913,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2938,6 +2994,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -2986,6 +3043,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3034,6 +3092,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3082,6 +3141,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3154,6 +3214,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3234,6 +3295,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3282,6 +3344,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3330,6 +3393,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3378,6 +3442,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3450,6 +3515,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3530,6 +3596,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3578,6 +3645,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3626,6 +3694,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3674,6 +3743,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3746,6 +3816,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3826,6 +3897,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3874,6 +3946,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3922,6 +3995,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -3970,6 +4044,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4042,6 +4117,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4122,6 +4198,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4170,6 +4247,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4218,6 +4296,7 @@
     "origin": "慶応大学",
     "destination": "湘南台駅西口",
     "via": "宮原・慶応大学",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4290,6 +4369,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4370,6 +4450,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
@@ -4450,6 +4531,7 @@
     "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "遠藤",
+    "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {

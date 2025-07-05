@@ -98,36 +98,42 @@
 - `date`: 臨時ダイヤを適用する日付 (YYYY-MM-DD)
 - `description`: 臨時ダイヤの説明（例：オープンキャンパスダイヤ）
 - `type`: 臨時ダイヤのユニークID
-- `overrides`: 通常ダイヤを上書きする路線の情報と、使用するCSVファイルのパス
+- `routes`: その日に運行する路線情報（`routes.yaml`と同じ形式）
 
-### 生成されるJSON
 #### 臨時ダイヤのメタデータ (`data/v1/special_schedules.json`)
 適用されるすべての臨時ダイヤの情報を一覧で提供します。クライアント側はまずこのファイルを参照し、当日に適用される臨時ダイヤがあるか確認します。
 ```json
 [
   {
     "date": "2025-07-05",
-    "description": "夏季オープンキャンパス臨時ダイヤ",
+    "description": "慶応大学藤沢湘南キャンパス「七夕祭」開催に伴う臨時便の運行および起終点の変更",
     "type": "special_20250705"
   }
 ]
 ```
 
-#### 臨時ダイヤ適用時のJSON
-臨時ダイヤが適用される日は、通常とは異なる`schedule_type`（`special_schedules.yaml`で定義した`type`）を持つJSONファイルが生成されます。クライアントは、`special_schedules.json`から取得した`type`を使い、対応する時刻表JSONにアクセスします。
+#### 臨時ダイヤの時刻表JSON (`data/v1/special/{type}/`)
+臨時ダイヤが適用される日は、専用ディレクトリ内に時刻表JSONが生成されます。
+- `to_sfc.json`: SFC行きの全便
+- `from_sfc.json`: SFC発の全便
 
-- 路線別JSON: `https://.../data/v1/route/{path_id}_{type}.json`
-- フラットJSON: `https://.../data/v1/flat/{direction}_{type}.json`
+例: `data/v1/special/special_20250705/to_sfc.json`
 
 ## APIの利用方法
 
 生成されたJSONは以下のURLで直接アクセス可能です：
 
+### 通常ダイヤ
 - 路線別JSON: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/route/{route_id}_{direction}_{schedule_type}.json`
   - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/route/sho19_from_saturday.json`
 
 - フラットJSON: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/{direction}_{schedule_type}.json`
   - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/from_sfc_saturday.json`
+
+### 臨時ダイヤ
+- 臨時ダイヤメタデータ: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special_schedules.json`
+- 臨時ダイヤ時刻表: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special/{type}/{direction}_sfc.json`
+  - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special/special_20250705/to_sfc.json`
 
 これらのURLに直接アクセスすることで、JSONデータを取得できます。CORSも有効になっているため、Webアプリケーションから直接利用可能です。
 

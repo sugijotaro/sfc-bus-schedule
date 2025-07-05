@@ -3,7 +3,6 @@ import os
 import yaml
 import csv
 import json
-import copy # copyライブラリをインポート
 from pathlib import Path
 
 VERSION = "v1"
@@ -148,6 +147,63 @@ def generate_special_schedules_metadata(special_schedules_config):
         json.dump(metadata, f, ensure_ascii=False, indent=2)
     print(f"Generated {output_file}")
 
+def generate_special_flat_json(special_config, schedule_type):
+    """Generate flat JSON files for special schedules in data/v1/special/{schedule_type}/ directory"""
+    aggregated = {"to": [], "from": []}
+
+    for route_id, route_data in special_config["routes"].items():
+        for path_id, path_data in route_data["paths"].items():
+            sfc_direction = path_data.get("sfc_direction", "").lower()
+            if sfc_direction not in ["to", "from"]:
+                continue
+
+            csv_file = path_data.get("csv_files", {}).get(schedule_type)
+            if not csv_file:
+                continue
+            
+            times = read_csv_timetable(csv_file)
+            for entry in times:
+                hour = entry["time"]
+                minute = entry["minute"]
+                unique_id = f"{route_id}{hour:02d}{minute:02d}"
+                record = {
+                    "id": unique_id,
+                    "time": hour,
+                    "minute": minute,
+                    "scheduleType": schedule_type,
+                    "routeCode": route_id,
+                    "routeName": route_data.get("name", ""),
+                    "name": path_data.get("name", ""),
+                    "origin": path_data.get("origin", ""),
+                    "destination": path_data.get("destination", path_data["stops"][-1]["name"] if path_data.get("stops") else ""),
+                    "via": path_data.get("via", ""),
+                    "sfc_direction": f"{sfc_direction}_sfc",
+                    "metadata": {},
+                }
+                departure_total = hour * 60 + minute
+                new_stops = []
+                for stop in path_data.get("stops", []):
+                    offset = stop.get("cumulative_time", 0)
+                    arrival_total = departure_total + offset
+                    arrival_hour = arrival_total // 60
+                    arrival_minute = arrival_total % 60
+                    new_stop = stop.copy()
+                    new_stop["arrival"] = {"time": arrival_hour, "minute": arrival_minute}
+                    new_stops.append(new_stop)
+                record["metadata"]["stops"] = new_stops
+
+                aggregated[sfc_direction].append(record)
+
+    output_dir = os.path.join("data", VERSION, "special", schedule_type)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    for direction, records in aggregated.items():
+        if not records: continue
+        records.sort(key=lambda x: x["time"] * 60 + x["minute"])
+        output_file = os.path.join(output_dir, f"{direction}_sfc.json")
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(records, f, ensure_ascii=False, indent=2)
+        print(f"Generated {output_file}")
 
 def main():
     base_config = load_routes_config()
@@ -164,23 +220,10 @@ def main():
         print("\n--- Generating Special Schedules ---")
         for schedule in special_schedules_config["special_schedules"]:
             print(f"Processing special schedule for {schedule['date']} ({schedule['type']})")
-            temp_config = copy.deepcopy(base_config)
-            day_type = schedule["type"]
-
-            # Override csv_files in temp_config
-            for route_id, paths in schedule["overrides"].items():
-                for path_id, csv_file in paths.items():
-                    if route_id in temp_config["routes"] and path_id in temp_config["routes"][route_id]["paths"]:
-                        # Clear existing day types and set only the special one
-                        temp_config["routes"][route_id]["paths"][path_id]["csv_files"] = {
-                            day_type: csv_file
-                        }
-                    else:
-                        print(f"Warning: {route_id}/{path_id} not found in routes.yaml, skipping override.")
+            schedule_type = schedule["type"]
             
-            # Generate JSON for this special schedule
-            generate_route_json(temp_config, [day_type])
-            generate_flat_json(temp_config, [day_type])
+            # Generate flat JSON for this special schedule
+            generate_special_flat_json(schedule, schedule_type)
 
         # 3. Generate special schedules metadata file
         print("\n--- Generating Special Schedules Metadata ---")

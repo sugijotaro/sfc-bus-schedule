@@ -1,0 +1,18 @@
+special_schedules:
+  - date: "2025-07-05"
+    description: "夏季オープンキャンパス臨時ダイヤ"
+    type: "special_20250705" # 臨時ダイヤを識別するユニークなID
+    overrides: # この日に上書きされる路線とCSVファイル
+      sho23:
+        sho23_to: "csv/special/20250705_sho23_to.csv"
+        sho23_from_rotary: "csv/special/20250705_sho23_from_rotary.csv"
+      sho25:
+        sho25_to: "csv/special/20250705_sho25_to.csv"
+        sho25_from_honkan: "csv/special/20250705_sho25_from_honkan.csv"
+
+  # 他の臨時ダイヤ日があればここに追加
+  # - date: "2025-08-11"
+  #   description: "夏季休業ダイヤ"
+  #   type: "special_20250811"
+  #   overrides:
+  #     ...

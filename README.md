@@ -92,6 +92,33 @@
 ]
 ```
 
+### 臨時ダイヤの情報 (YAML)
+`config/special_schedules.yaml`で特定の日付に適用する臨時ダイヤを管理します。
+
+- `date`: 臨時ダイヤを適用する日付 (YYYY-MM-DD)
+- `description`: 臨時ダイヤの説明（例：オープンキャンパスダイヤ）
+- `type`: 臨時ダイヤのユニークID
+- `overrides`: 通常ダイヤを上書きする路線の情報と、使用するCSVファイルのパス
+
+### 生成されるJSON
+#### 臨時ダイヤのメタデータ (`data/v1/special_schedules.json`)
+適用されるすべての臨時ダイヤの情報を一覧で提供します。クライアント側はまずこのファイルを参照し、当日に適用される臨時ダイヤがあるか確認します。
+```json
+[
+  {
+    "date": "2025-07-05",
+    "description": "夏季オープンキャンパス臨時ダイヤ",
+    "type": "special_20250705"
+  }
+]
+```
+
+#### 臨時ダイヤ適用時のJSON
+臨時ダイヤが適用される日は、通常とは異なる`schedule_type`（`special_schedules.yaml`で定義した`type`）を持つJSONファイルが生成されます。クライアントは、`special_schedules.json`から取得した`type`を使い、対応する時刻表JSONにアクセスします。
+
+- 路線別JSON: `https://.../data/v1/route/{path_id}_{type}.json`
+- フラットJSON: `https://.../data/v1/flat/{direction}_{type}.json`
+
 ## APIの利用方法
 
 生成されたJSONは以下のURLで直接アクセス可能です：

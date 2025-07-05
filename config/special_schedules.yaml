@@ -131,6 +131,21 @@ special_schedules:
                 cumulative_time: 15
             csv_files:
               special_20250705: csv/special/20250705_sho25_to.csv
+          sho25_from_rotary:
+            name: ツインライナー 急行・湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: ツインライナー急行・南大山
+            sfc_direction: from
+            stops:
+              - name: 慶応大学
+                cumulative_time: 0
+              - name: 南大山
+                cumulative_time: 4
+              - name: 湘南台駅西口
+                cumulative_time: 13
+            csv_files:
+              special_20250705: csv/special/20250705_sho25_from_rotary.csv
       sho28:
         name: 湘28
         paths:

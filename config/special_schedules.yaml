@@ -259,7 +259,7 @@ special_schedules:
       sho23:
         name: 湘23
         paths:
-          sho23_to_sun:
+          sho23_to:
             name: 慶応大学行
             origin: 湘南台駅西口
             destination: 慶応大学
@@ -284,7 +284,7 @@ special_schedules:
                 cumulative_time: 11
             csv_files:
               special_20250706: csv/special/20250706_sho23_to.csv
-          sho23_from_rotary:
+          sho23_from:
             name: 湘南台駅西口行
             origin: 慶応大学
             destination: 湘南台駅西口
@@ -307,3 +307,36 @@ special_schedules:
                 cumulative_time: 11
             csv_files:
               special_20250706: csv/special/20250706_sho23_from.csv
+      sho25:
+        name: 湘25
+        paths:
+          sho25_to:
+            name: ツインライナー 急行・慶応大学行
+            origin: 湘南台駅西口
+            destination: 慶応大学
+            via: ツインライナー急行・南大山
+            sfc_direction: to
+            stops:
+              - name: 湘南台駅西口
+                cumulative_time: 0
+              - name: 南大山
+                cumulative_time: 5
+              - name: 慶応大学
+                cumulative_time: 9
+            csv_files:
+              special_20250705: csv/special/20250706_sho25_to.csv
+          sho25_from:
+            name: ツインライナー 急行・湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: ツインライナー急行・南大山
+            sfc_direction: from
+            stops:
+              - name: 慶応大学
+                cumulative_time: 0
+              - name: 南大山
+                cumulative_time: 4
+              - name: 湘南台駅西口
+                cumulative_time: 13
+            csv_files:
+              special_20250705: csv/special/20250706_sho25_from.csv

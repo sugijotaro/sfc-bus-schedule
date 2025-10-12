@@ -1,0 +1,5036 @@
+[
+  {
+    "id": "sho230735",
+    "time": 7,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 35
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 7,
+            "minute": 36
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 7,
+            "minute": 37
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 7,
+            "minute": 39
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 40
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 7,
+            "minute": 42
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 7,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 7,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 7,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho190745",
+    "time": 7,
+    "minute": 45,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 45
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 7,
+            "minute": 46
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 7,
+            "minute": 47
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 7,
+            "minute": 49
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 50
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 7,
+            "minute": 52
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 7,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 7,
+            "minute": 56
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230750",
+    "time": 7,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 7,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 7,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 7,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 7,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 7,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 7,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 7,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230805",
+    "time": 8,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 5
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 6
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 7
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 8,
+            "minute": 9
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 10
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 12
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250815",
+    "time": 8,
+    "minute": 15,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230820",
+    "time": 8,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 20
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 21
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 22
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 8,
+            "minute": 24
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 25
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 27
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 31
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250830",
+    "time": 8,
+    "minute": 30,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 30
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230835",
+    "time": 8,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 35
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 36
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 37
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 8,
+            "minute": 39
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 40
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho190840",
+    "time": 8,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 8,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250845",
+    "time": 8,
+    "minute": 45,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 45
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 54
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 57
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230850",
+    "time": 8,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 8,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 8,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250900",
+    "time": 9,
+    "minute": 0,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 12
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230905",
+    "time": 9,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 5
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 6
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 7
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 9,
+            "minute": 9
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 10
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 12
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho190910",
+    "time": 9,
+    "minute": 10,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 10
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 11
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 12
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 9,
+            "minute": 14
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 15
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 17
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 18
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 21
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250915",
+    "time": 9,
+    "minute": 15,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230927",
+    "time": 9,
+    "minute": 27,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 27
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 28
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 29
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 9,
+            "minute": 31
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 32
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 34
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250935",
+    "time": 9,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 40
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 44
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho250945",
+    "time": 9,
+    "minute": 45,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 45
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 54
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 57
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho230950",
+    "time": 9,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 9,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 9,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191000",
+    "time": 10,
+    "minute": 0,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 0
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 1
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 2
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 10,
+            "minute": 4
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 5
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 7
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 11
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251000",
+    "time": 10,
+    "minute": 0,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 0
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 9
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 12
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231012",
+    "time": 10,
+    "minute": 12,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 12
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 13
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 14
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 10,
+            "minute": 16
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 17
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 19
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 24
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251020",
+    "time": 10,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 20
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 25
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251030",
+    "time": 10,
+    "minute": 30,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 30
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 39
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231035",
+    "time": 10,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 35
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 36
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 37
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 10,
+            "minute": 39
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 40
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 42
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191050",
+    "time": 10,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 10,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251050",
+    "time": 10,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 10,
+            "minute": 55
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 59
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231057",
+    "time": 10,
+    "minute": 57,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 57
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 58
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 59
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 11,
+            "minute": 1
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 2
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 4
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251110",
+    "time": 11,
+    "minute": 10,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 10
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 15
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 19
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231120",
+    "time": 11,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 20
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 21
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 22
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 11,
+            "minute": 24
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 25
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 27
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 31
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191140",
+    "time": 11,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 11,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231142",
+    "time": 11,
+    "minute": 42,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 42
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 43
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 44
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 11,
+            "minute": 46
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 47
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 49
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 54
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251150",
+    "time": 11,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 55
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 59
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231205",
+    "time": 12,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 5
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 6
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 7
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 12,
+            "minute": 9
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 10
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 12
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251215",
+    "time": 12,
+    "minute": 15,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231227",
+    "time": 12,
+    "minute": 27,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 27
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 28
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 29
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 12,
+            "minute": 31
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 32
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 34
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191239",
+    "time": 12,
+    "minute": 39,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 39
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 40
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 41
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 12,
+            "minute": 43
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 44
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 46
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 47
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 50
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231240",
+    "time": 12,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 12,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 51
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 52
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231250",
+    "time": 12,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 12,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 12,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231312",
+    "time": 13,
+    "minute": 12,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 12
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 13
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 14
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 13,
+            "minute": 16
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 17
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 13,
+            "minute": 19
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 24
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231335",
+    "time": 13,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 35
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 36
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 37
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 13,
+            "minute": 39
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 40
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 13,
+            "minute": 42
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191340",
+    "time": 13,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 13,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 13,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231357",
+    "time": 13,
+    "minute": 57,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 57
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 58
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 59
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 14,
+            "minute": 1
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 2
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 14,
+            "minute": 4
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251405",
+    "time": 14,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 5
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 10
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 14
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251415",
+    "time": 14,
+    "minute": 15,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 15
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 24
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 27
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231420",
+    "time": 14,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 20
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 14,
+            "minute": 21
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 14,
+            "minute": 22
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 14,
+            "minute": 24
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 25
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 14,
+            "minute": 27
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 31
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191440",
+    "time": 14,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 14,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 14,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 14,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 14,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231442",
+    "time": 14,
+    "minute": 42,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 42
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 14,
+            "minute": 43
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 14,
+            "minute": 44
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 14,
+            "minute": 46
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 47
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 14,
+            "minute": 49
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 54
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231505",
+    "time": 15,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 5
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 6
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 7
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 15,
+            "minute": 9
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 10
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 15,
+            "minute": 12
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 15,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251520",
+    "time": 15,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 20
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 25
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 29
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231527",
+    "time": 15,
+    "minute": 27,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 27
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 28
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 29
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 15,
+            "minute": 31
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 32
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 15,
+            "minute": 34
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 35
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 15,
+            "minute": 38
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 39
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191540",
+    "time": 15,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 15,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 15,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 15,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho251540",
+    "time": 15,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho25",
+    "routeName": "湘25",
+    "name": "ツインライナー 急行・慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応中高等部前",
+    "via": "ツインライナー急行・南大山",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 40
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 45
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 49
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 52
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231550",
+    "time": 15,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 15,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 15,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231612",
+    "time": 16,
+    "minute": 12,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 12
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 13
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 14
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 16,
+            "minute": 16
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 17
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 16,
+            "minute": 19
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 16,
+            "minute": 20
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 23
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 24
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231635",
+    "time": 16,
+    "minute": 35,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 35
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 36
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 37
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 16,
+            "minute": 39
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 40
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 16,
+            "minute": 42
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 16,
+            "minute": 43
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 46
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 47
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191640",
+    "time": 16,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 16,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 16,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 16,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231657",
+    "time": 16,
+    "minute": 57,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 57
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 58
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 59
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 17,
+            "minute": 1
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 2
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 17,
+            "minute": 4
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 5
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 8
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231720",
+    "time": 17,
+    "minute": 20,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 20
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 17,
+            "minute": 21
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 17,
+            "minute": 22
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 17,
+            "minute": 24
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 25
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 17,
+            "minute": 27
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 28
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 31
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 32
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191740",
+    "time": 17,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 17,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 17,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 17,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 17,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231742",
+    "time": 17,
+    "minute": 42,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 42
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 17,
+            "minute": 43
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 17,
+            "minute": 44
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 17,
+            "minute": 46
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 47
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 17,
+            "minute": 49
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 50
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 53
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 54
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231805",
+    "time": 18,
+    "minute": 5,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 5
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 18,
+            "minute": 6
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 18,
+            "minute": 7
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 18,
+            "minute": 9
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 10
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 18,
+            "minute": 12
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 18,
+            "minute": 13
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 18,
+            "minute": 16
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 18,
+            "minute": 17
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191840",
+    "time": 18,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 18,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 18,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 18,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 18,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 18,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 18,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho231850",
+    "time": 18,
+    "minute": 50,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho23",
+    "routeName": "湘23",
+    "name": "慶応大学行",
+    "origin": "湘南台駅西口",
+    "destination": "慶応大学本館前",
+    "via": "遠藤",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 50
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 18,
+            "minute": 51
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 18,
+            "minute": 52
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 18,
+            "minute": 54
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 55
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 18,
+            "minute": 57
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 18,
+            "minute": 58
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 19,
+            "minute": 1
+          }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 19,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho191940",
+    "time": 19,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 19,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 19,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 19,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 19,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 19,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 19,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 19,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 19,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "sho192040",
+    "time": 20,
+    "minute": 40,
+    "scheduleType": "special_20251013",
+    "routeCode": "sho19",
+    "routeName": "湘19",
+    "name": "綾瀬車庫行",
+    "origin": "湘南台駅西口",
+    "destination": "綾瀬車庫",
+    "via": "慶応大学・宮原",
+    "sfc_direction": "to_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "湘南台駅西口",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 20,
+            "minute": 40
+          }
+        },
+        {
+          "name": "円行上庭",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 20,
+            "minute": 41
+          }
+        },
+        {
+          "name": "北警察署前",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 20,
+            "minute": 42
+          }
+        },
+        {
+          "name": "工業団地入口",
+          "cumulative_time": 4,
+          "arrival": {
+            "time": 20,
+            "minute": 44
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 20,
+            "minute": 45
+          }
+        },
+        {
+          "name": "遠藤",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 20,
+            "minute": 47
+          }
+        },
+        {
+          "name": "藤沢ジャンボゴルフ前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 20,
+            "minute": 48
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 20,
+            "minute": 51
+          }
+        }
+      ]
+    }
+  }
+]

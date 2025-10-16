@@ -3,15 +3,15 @@
   "path_id": "sho28_from",
   "name": "直行 湘南台駅西口行",
   "origin": "慶応大学本館前",
-  "destination": "慶応中高等部前",
+  "destination": "湘南台駅西口",
   "via": "直行",
   "stops": [
     {
-      "name": "湘南台駅西口",
+      "name": "慶応中高等部前",
       "cumulative_time": 0
     },
     {
-      "name": "慶応中高等部前",
+      "name": "湘南台駅西口",
       "cumulative_time": 13
     }
   ],

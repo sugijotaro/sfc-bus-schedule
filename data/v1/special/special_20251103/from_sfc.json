@@ -3,7 +3,7 @@
     "id": "sho190718",
     "time": 7,
     "minute": 18,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -76,7 +76,7 @@
     "id": "sho190758",
     "time": 7,
     "minute": 58,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -149,7 +149,7 @@
     "id": "sho230809",
     "time": 8,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -217,10 +217,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 8,
-            "minute": 20
+            "minute": 22
           }
         }
       ]
@@ -230,7 +230,7 @@
     "id": "sho230824",
     "time": 8,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -298,10 +298,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 8,
-            "minute": 35
+            "minute": 37
           }
         }
       ]
@@ -311,7 +311,7 @@
     "id": "sho230839",
     "time": 8,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -379,10 +379,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 8,
-            "minute": 50
+            "minute": 52
           }
         }
       ]
@@ -392,7 +392,7 @@
     "id": "sho190848",
     "time": 8,
     "minute": 48,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -465,7 +465,7 @@
     "id": "sho230854",
     "time": 8,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -533,10 +533,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 9,
-            "minute": 5
+            "minute": 7
           }
         }
       ]
@@ -546,7 +546,7 @@
     "id": "sho230909",
     "time": 9,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -614,10 +614,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 9,
-            "minute": 20
+            "minute": 22
           }
         }
       ]
@@ -627,7 +627,7 @@
     "id": "sho230924",
     "time": 9,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -695,10 +695,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 9,
-            "minute": 35
+            "minute": 37
           }
         }
       ]
@@ -708,7 +708,7 @@
     "id": "sho230946",
     "time": 9,
     "minute": 46,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -776,10 +776,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 9,
-            "minute": 57
+            "minute": 59
           }
         }
       ]
@@ -789,7 +789,7 @@
     "id": "sho190948",
     "time": 9,
     "minute": 48,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -862,7 +862,7 @@
     "id": "sho231009",
     "time": 10,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -930,10 +930,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 10,
-            "minute": 20
+            "minute": 22
           }
         }
       ]
@@ -943,7 +943,7 @@
     "id": "sho191023",
     "time": 10,
     "minute": 23,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -1016,7 +1016,7 @@
     "id": "sho231031",
     "time": 10,
     "minute": 31,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1084,10 +1084,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 10,
-            "minute": 42
+            "minute": 44
           }
         }
       ]
@@ -1097,7 +1097,7 @@
     "id": "sho231054",
     "time": 10,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1165,10 +1165,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 11,
-            "minute": 5
+            "minute": 7
           }
         }
       ]
@@ -1178,7 +1178,7 @@
     "id": "sho191113",
     "time": 11,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -1251,7 +1251,7 @@
     "id": "sho231116",
     "time": 11,
     "minute": 16,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1319,10 +1319,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 11,
-            "minute": 27
+            "minute": 29
           }
         }
       ]
@@ -1332,18 +1332,18 @@
     "id": "sho251124",
     "time": 11,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 11,
@@ -1351,19 +1351,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 11,
-            "minute": 28
+            "minute": 25
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 29
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 11,
-            "minute": 37
+            "minute": 40
           }
         }
       ]
@@ -1373,7 +1381,7 @@
     "id": "sho231139",
     "time": 11,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1441,10 +1449,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 11,
-            "minute": 50
+            "minute": 52
           }
         }
       ]
@@ -1454,18 +1462,18 @@
     "id": "sho251154",
     "time": 11,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 11,
@@ -1473,19 +1481,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 11,
-            "minute": 58
+            "minute": 55
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 11,
+            "minute": 59
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 12,
-            "minute": 7
+            "minute": 10
           }
         }
       ]
@@ -1495,7 +1511,7 @@
     "id": "sho231201",
     "time": 12,
     "minute": 1,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1563,10 +1579,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 12,
-            "minute": 12
+            "minute": 14
           }
         }
       ]
@@ -1576,7 +1592,7 @@
     "id": "sho191213",
     "time": 12,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -1649,7 +1665,7 @@
     "id": "sho231224",
     "time": 12,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1717,10 +1733,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 12,
-            "minute": 35
+            "minute": 37
           }
         }
       ]
@@ -1730,7 +1746,7 @@
     "id": "sho231246",
     "time": 12,
     "minute": 46,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1798,10 +1814,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 12,
-            "minute": 57
+            "minute": 59
           }
         }
       ]
@@ -1811,7 +1827,7 @@
     "id": "sho231309",
     "time": 13,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -1879,10 +1895,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 13,
-            "minute": 20
+            "minute": 22
           }
         }
       ]
@@ -1892,7 +1908,7 @@
     "id": "sho191313",
     "time": 13,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -1965,7 +1981,7 @@
     "id": "sho231331",
     "time": 13,
     "minute": 31,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2033,10 +2049,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 13,
-            "minute": 42
+            "minute": 44
           }
         }
       ]
@@ -2046,18 +2062,18 @@
     "id": "sho251339",
     "time": 13,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 13,
@@ -2065,19 +2081,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 13,
-            "minute": 43
+            "minute": 40
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 44
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 13,
-            "minute": 52
+            "minute": 55
           }
         }
       ]
@@ -2087,18 +2111,18 @@
     "id": "sho251349",
     "time": 13,
     "minute": 49,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 13,
@@ -2106,19 +2130,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 13,
-            "minute": 53
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 13,
+            "minute": 54
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 14,
-            "minute": 2
+            "minute": 5
           }
         }
       ]
@@ -2128,7 +2160,7 @@
     "id": "sho231354",
     "time": 13,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2196,10 +2228,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 14,
-            "minute": 5
+            "minute": 7
           }
         }
       ]
@@ -2209,7 +2241,7 @@
     "id": "sho191413",
     "time": 14,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -2282,7 +2314,7 @@
     "id": "sho231416",
     "time": 14,
     "minute": 16,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2350,10 +2382,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 14,
-            "minute": 27
+            "minute": 29
           }
         }
       ]
@@ -2363,7 +2395,7 @@
     "id": "sho231429",
     "time": 14,
     "minute": 29,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2431,10 +2463,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 14,
-            "minute": 40
+            "minute": 42
           }
         }
       ]
@@ -2444,7 +2476,7 @@
     "id": "sho231439",
     "time": 14,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2512,10 +2544,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 14,
-            "minute": 50
+            "minute": 52
           }
         }
       ]
@@ -2525,18 +2557,18 @@
     "id": "sho251454",
     "time": 14,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 14,
@@ -2544,19 +2576,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 14,
-            "minute": 58
+            "minute": 55
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 14,
+            "minute": 59
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 15,
-            "minute": 7
+            "minute": 10
           }
         }
       ]
@@ -2566,7 +2606,7 @@
     "id": "sho231501",
     "time": 15,
     "minute": 1,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2634,10 +2674,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 15,
-            "minute": 12
+            "minute": 14
           }
         }
       ]
@@ -2647,18 +2687,18 @@
     "id": "sho251509",
     "time": 15,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 15,
@@ -2666,19 +2706,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 15,
-            "minute": 13
+            "minute": 10
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 15,
+            "minute": 14
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 15,
-            "minute": 22
+            "minute": 25
           }
         }
       ]
@@ -2688,7 +2736,7 @@
     "id": "sho191513",
     "time": 15,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -2761,7 +2809,7 @@
     "id": "sho231524",
     "time": 15,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2829,10 +2877,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 15,
-            "minute": 35
+            "minute": 37
           }
         }
       ]
@@ -2842,7 +2890,7 @@
     "id": "sho231546",
     "time": 15,
     "minute": 46,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2910,10 +2958,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 15,
-            "minute": 57
+            "minute": 59
           }
         }
       ]
@@ -2923,7 +2971,7 @@
     "id": "sho231609",
     "time": 16,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -2991,10 +3039,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 16,
-            "minute": 20
+            "minute": 22
           }
         }
       ]
@@ -3004,7 +3052,7 @@
     "id": "sho191613",
     "time": 16,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -3077,18 +3125,18 @@
     "id": "sho251624",
     "time": 16,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 16,
@@ -3096,19 +3144,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 16,
-            "minute": 28
+            "minute": 25
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 29
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 16,
-            "minute": 37
+            "minute": 40
           }
         }
       ]
@@ -3118,7 +3174,7 @@
     "id": "sho231631",
     "time": 16,
     "minute": 31,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3186,10 +3242,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 16,
-            "minute": 42
+            "minute": 44
           }
         }
       ]
@@ -3199,18 +3255,18 @@
     "id": "sho251639",
     "time": 16,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 16,
@@ -3218,19 +3274,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 16,
-            "minute": 43
+            "minute": 40
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 16,
+            "minute": 44
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 16,
-            "minute": 52
+            "minute": 55
           }
         }
       ]
@@ -3240,7 +3304,7 @@
     "id": "sho231654",
     "time": 16,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3308,10 +3372,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 17,
-            "minute": 5
+            "minute": 7
           }
         }
       ]
@@ -3321,7 +3385,7 @@
     "id": "sho191713",
     "time": 17,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -3394,7 +3458,7 @@
     "id": "sho231716",
     "time": 17,
     "minute": 16,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3462,10 +3526,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 17,
-            "minute": 27
+            "minute": 29
           }
         }
       ]
@@ -3475,18 +3539,18 @@
     "id": "sho251724",
     "time": 17,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 17,
@@ -3494,19 +3558,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 17,
-            "minute": 28
+            "minute": 25
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 29
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 17,
-            "minute": 37
+            "minute": 40
           }
         }
       ]
@@ -3516,18 +3588,18 @@
     "id": "sho251734",
     "time": 17,
     "minute": 34,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 17,
@@ -3535,19 +3607,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 17,
-            "minute": 38
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 17,
+            "minute": 39
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 17,
-            "minute": 47
+            "minute": 50
           }
         }
       ]
@@ -3557,7 +3637,7 @@
     "id": "sho231739",
     "time": 17,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3625,10 +3705,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 17,
-            "minute": 50
+            "minute": 52
           }
         }
       ]
@@ -3638,7 +3718,7 @@
     "id": "sho231801",
     "time": 18,
     "minute": 1,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3706,10 +3786,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 18,
-            "minute": 12
+            "minute": 14
           }
         }
       ]
@@ -3719,18 +3799,18 @@
     "id": "sho251809",
     "time": 18,
     "minute": 9,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 18,
@@ -3738,19 +3818,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 18,
-            "minute": 13
+            "minute": 10
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 14
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 18,
-            "minute": 22
+            "minute": 25
           }
         }
       ]
@@ -3760,7 +3848,7 @@
     "id": "sho191813",
     "time": 18,
     "minute": 13,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -3833,7 +3921,7 @@
     "id": "sho231824",
     "time": 18,
     "minute": 24,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -3901,10 +3989,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 18,
-            "minute": 35
+            "minute": 37
           }
         }
       ]
@@ -3914,18 +4002,18 @@
     "id": "sho251834",
     "time": 18,
     "minute": 34,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 18,
@@ -3933,19 +4021,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 18,
-            "minute": 38
+            "minute": 35
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 39
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 18,
-            "minute": 47
+            "minute": 50
           }
         }
       ]
@@ -3955,18 +4051,18 @@
     "id": "sho251849",
     "time": 18,
     "minute": 49,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・湘南台駅西口行",
-    "origin": "慶応大学",
+    "origin": "慶応大学本館前",
     "destination": "湘南台駅西口",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "from_sfc",
     "metadata": {
       "stops": [
         {
-          "name": "慶応大学",
+          "name": "慶応大学本館前",
           "cumulative_time": 0,
           "arrival": {
             "time": 18,
@@ -3974,19 +4070,27 @@
           }
         },
         {
-          "name": "南大山",
-          "cumulative_time": 4,
+          "name": "慶応大学",
+          "cumulative_time": 1,
           "arrival": {
             "time": 18,
-            "minute": 53
+            "minute": 50
+          }
+        },
+        {
+          "name": "南大山",
+          "cumulative_time": 5,
+          "arrival": {
+            "time": 18,
+            "minute": 54
           }
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 13,
+          "cumulative_time": 16,
           "arrival": {
             "time": 19,
-            "minute": 2
+            "minute": 5
           }
         }
       ]
@@ -3996,7 +4100,7 @@
     "id": "sho191902",
     "time": 19,
     "minute": 2,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "湘南台駅西口行",
@@ -4069,7 +4173,7 @@
     "id": "sho231914",
     "time": 19,
     "minute": 14,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4137,10 +4241,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 19,
-            "minute": 25
+            "minute": 27
           }
         }
       ]
@@ -4150,7 +4254,7 @@
     "id": "sho231937",
     "time": 19,
     "minute": 37,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4218,10 +4322,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 19,
-            "minute": 48
+            "minute": 50
           }
         }
       ]
@@ -4231,7 +4335,7 @@
     "id": "sho231954",
     "time": 19,
     "minute": 54,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4299,10 +4403,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 20,
-            "minute": 5
+            "minute": 7
           }
         }
       ]
@@ -4312,7 +4416,7 @@
     "id": "sho232012",
     "time": 20,
     "minute": 12,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4380,10 +4484,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 20,
-            "minute": 23
+            "minute": 25
           }
         }
       ]
@@ -4393,7 +4497,7 @@
     "id": "sho232029",
     "time": 20,
     "minute": 29,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4461,10 +4565,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 20,
-            "minute": 40
+            "minute": 42
           }
         }
       ]
@@ -4474,7 +4578,7 @@
     "id": "sho232044",
     "time": 20,
     "minute": 44,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4542,10 +4646,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 20,
-            "minute": 55
+            "minute": 57
           }
         }
       ]
@@ -4555,7 +4659,7 @@
     "id": "sho232129",
     "time": 21,
     "minute": 29,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4623,10 +4727,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 21,
-            "minute": 40
+            "minute": 42
           }
         }
       ]
@@ -4636,7 +4740,7 @@
     "id": "sho232144",
     "time": 21,
     "minute": 44,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "湘南台駅西口行",
@@ -4704,10 +4808,10 @@
         },
         {
           "name": "湘南台駅西口",
-          "cumulative_time": 11,
+          "cumulative_time": 13,
           "arrival": {
             "time": 21,
-            "minute": 55
+            "minute": 57
           }
         }
       ]

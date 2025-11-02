@@ -3,7 +3,7 @@
     "id": "sho230735",
     "time": 7,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -92,7 +92,7 @@
     "id": "sho190745",
     "time": 7,
     "minute": 45,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -173,7 +173,7 @@
     "id": "sho230750",
     "time": 7,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -262,7 +262,7 @@
     "id": "sho230805",
     "time": 8,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -351,12 +351,12 @@
     "id": "sho250815",
     "time": 8,
     "minute": 15,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -384,6 +384,14 @@
             "time": 8,
             "minute": 24
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 27
+          }
         }
       ]
     }
@@ -392,7 +400,7 @@
     "id": "sho230820",
     "time": 8,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -481,12 +489,12 @@
     "id": "sho250830",
     "time": 8,
     "minute": 30,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -514,6 +522,14 @@
             "time": 8,
             "minute": 39
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
         }
       ]
     }
@@ -522,7 +538,7 @@
     "id": "sho230835",
     "time": 8,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -611,7 +627,7 @@
     "id": "sho190840",
     "time": 8,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -692,12 +708,12 @@
     "id": "sho250845",
     "time": 8,
     "minute": 45,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -725,6 +741,14 @@
             "time": 8,
             "minute": 54
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 57
+          }
         }
       ]
     }
@@ -733,7 +757,7 @@
     "id": "sho230850",
     "time": 8,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -822,12 +846,12 @@
     "id": "sho250900",
     "time": 9,
     "minute": 0,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -855,6 +879,14 @@
             "time": 9,
             "minute": 9
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 12
+          }
         }
       ]
     }
@@ -863,7 +895,7 @@
     "id": "sho230905",
     "time": 9,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -952,7 +984,7 @@
     "id": "sho190910",
     "time": 9,
     "minute": 10,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -1033,12 +1065,12 @@
     "id": "sho250915",
     "time": 9,
     "minute": 15,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1066,6 +1098,14 @@
             "time": 9,
             "minute": 24
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 27
+          }
         }
       ]
     }
@@ -1074,7 +1114,7 @@
     "id": "sho230927",
     "time": 9,
     "minute": 27,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -1163,12 +1203,12 @@
     "id": "sho250935",
     "time": 9,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1196,6 +1236,14 @@
             "time": 9,
             "minute": 44
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 47
+          }
         }
       ]
     }
@@ -1204,12 +1252,12 @@
     "id": "sho250945",
     "time": 9,
     "minute": 45,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1237,6 +1285,14 @@
             "time": 9,
             "minute": 54
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 57
+          }
         }
       ]
     }
@@ -1245,7 +1301,7 @@
     "id": "sho230950",
     "time": 9,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -1334,7 +1390,7 @@
     "id": "sho191000",
     "time": 10,
     "minute": 0,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -1415,12 +1471,12 @@
     "id": "sho251000",
     "time": 10,
     "minute": 0,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1448,6 +1504,14 @@
             "time": 10,
             "minute": 9
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 12
+          }
         }
       ]
     }
@@ -1456,7 +1520,7 @@
     "id": "sho231012",
     "time": 10,
     "minute": 12,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -1545,12 +1609,12 @@
     "id": "sho251020",
     "time": 10,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1578,6 +1642,14 @@
             "time": 10,
             "minute": 29
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 32
+          }
         }
       ]
     }
@@ -1586,12 +1658,12 @@
     "id": "sho251030",
     "time": 10,
     "minute": 30,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1619,6 +1691,14 @@
             "time": 10,
             "minute": 39
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 42
+          }
         }
       ]
     }
@@ -1627,7 +1707,7 @@
     "id": "sho231035",
     "time": 10,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -1716,7 +1796,7 @@
     "id": "sho191050",
     "time": 10,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -1797,12 +1877,12 @@
     "id": "sho251050",
     "time": 10,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1830,6 +1910,14 @@
             "time": 10,
             "minute": 59
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 2
+          }
         }
       ]
     }
@@ -1838,7 +1926,7 @@
     "id": "sho231057",
     "time": 10,
     "minute": 57,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -1927,12 +2015,12 @@
     "id": "sho251110",
     "time": 11,
     "minute": 10,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -1960,6 +2048,14 @@
             "time": 11,
             "minute": 19
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 22
+          }
         }
       ]
     }
@@ -1968,7 +2064,7 @@
     "id": "sho231120",
     "time": 11,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2057,7 +2153,7 @@
     "id": "sho191140",
     "time": 11,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -2138,7 +2234,7 @@
     "id": "sho231142",
     "time": 11,
     "minute": 42,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2227,12 +2323,12 @@
     "id": "sho251150",
     "time": 11,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -2260,6 +2356,14 @@
             "time": 11,
             "minute": 59
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 2
+          }
         }
       ]
     }
@@ -2268,7 +2372,7 @@
     "id": "sho231205",
     "time": 12,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2357,12 +2461,12 @@
     "id": "sho251215",
     "time": 12,
     "minute": 15,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -2390,6 +2494,14 @@
             "time": 12,
             "minute": 24
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 27
+          }
         }
       ]
     }
@@ -2398,7 +2510,7 @@
     "id": "sho231227",
     "time": 12,
     "minute": 27,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2487,7 +2599,7 @@
     "id": "sho191239",
     "time": 12,
     "minute": 39,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -2568,7 +2680,7 @@
     "id": "sho231240",
     "time": 12,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2657,7 +2769,7 @@
     "id": "sho231250",
     "time": 12,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2746,7 +2858,7 @@
     "id": "sho231312",
     "time": 13,
     "minute": 12,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2835,7 +2947,7 @@
     "id": "sho231335",
     "time": 13,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -2924,7 +3036,7 @@
     "id": "sho191340",
     "time": 13,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -3005,7 +3117,7 @@
     "id": "sho231357",
     "time": 13,
     "minute": 57,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3094,12 +3206,12 @@
     "id": "sho251405",
     "time": 14,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -3127,6 +3239,14 @@
             "time": 14,
             "minute": 14
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 17
+          }
         }
       ]
     }
@@ -3135,12 +3255,12 @@
     "id": "sho251415",
     "time": 14,
     "minute": 15,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -3168,6 +3288,14 @@
             "time": 14,
             "minute": 24
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 27
+          }
         }
       ]
     }
@@ -3176,7 +3304,7 @@
     "id": "sho231420",
     "time": 14,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3265,7 +3393,7 @@
     "id": "sho191440",
     "time": 14,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -3346,7 +3474,7 @@
     "id": "sho231442",
     "time": 14,
     "minute": 42,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3435,7 +3563,7 @@
     "id": "sho231505",
     "time": 15,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3524,12 +3652,12 @@
     "id": "sho251520",
     "time": 15,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -3557,6 +3685,14 @@
             "time": 15,
             "minute": 29
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 32
+          }
         }
       ]
     }
@@ -3565,7 +3701,7 @@
     "id": "sho231527",
     "time": 15,
     "minute": 27,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3654,7 +3790,7 @@
     "id": "sho191540",
     "time": 15,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -3735,12 +3871,12 @@
     "id": "sho251540",
     "time": 15,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho25",
     "routeName": "湘25",
     "name": "ツインライナー 急行・慶応大学行",
     "origin": "湘南台駅西口",
-    "destination": "慶応大学",
+    "destination": "慶応中高等部前",
     "via": "ツインライナー急行・南大山",
     "sfc_direction": "to_sfc",
     "metadata": {
@@ -3768,6 +3904,14 @@
             "time": 15,
             "minute": 49
           }
+        },
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 52
+          }
         }
       ]
     }
@@ -3776,7 +3920,7 @@
     "id": "sho231550",
     "time": 15,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3865,7 +4009,7 @@
     "id": "sho231612",
     "time": 16,
     "minute": 12,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -3954,7 +4098,7 @@
     "id": "sho231635",
     "time": 16,
     "minute": 35,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4043,7 +4187,7 @@
     "id": "sho191640",
     "time": 16,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -4124,7 +4268,7 @@
     "id": "sho231657",
     "time": 16,
     "minute": 57,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4213,7 +4357,7 @@
     "id": "sho231720",
     "time": 17,
     "minute": 20,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4302,7 +4446,7 @@
     "id": "sho191740",
     "time": 17,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -4383,7 +4527,7 @@
     "id": "sho231742",
     "time": 17,
     "minute": 42,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4472,7 +4616,7 @@
     "id": "sho231805",
     "time": 18,
     "minute": 5,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4561,7 +4705,7 @@
     "id": "sho191840",
     "time": 18,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -4642,7 +4786,7 @@
     "id": "sho231850",
     "time": 18,
     "minute": 50,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho23",
     "routeName": "湘23",
     "name": "慶応大学行",
@@ -4731,7 +4875,7 @@
     "id": "sho191940",
     "time": 19,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",
@@ -4812,7 +4956,7 @@
     "id": "sho192040",
     "time": 20,
     "minute": 40,
-    "scheduleType": "special_20251013",
+    "scheduleType": "special_20251103",
     "routeCode": "sho19",
     "routeName": "湘19",
     "name": "綾瀬車庫行",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SFC臨時ダイヤ作成"
+  short_description: "SFCバスの臨時ダイヤを告知とPDFから安全に作成"
+  default_prompt: "Use $sfc-special-schedule to create and verify an SFC special bus schedule."

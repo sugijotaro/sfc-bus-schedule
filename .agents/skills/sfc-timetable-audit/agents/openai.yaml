@@ -1,0 +1,4 @@
+interface:
+  display_name: "SFC通常ダイヤ監査"
+  short_description: "神奈中公式サイトとSFC通常ダイヤを始発停留所別に照合"
+  default_prompt: "Use $sfc-timetable-audit to compare the current regular SFC bus timetable with Kanachu official pages and report discrepancies and proposed fixes."

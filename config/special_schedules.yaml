@@ -1,4 +1,286 @@
 special_schedules:
+  - date: '2026-07-28'
+    description: 春学期期末試験日に伴う臨時便の運行について
+    type: special_20260728
+    routes:
+      sho19:
+        name: 湘19
+        paths:
+          sho19_to:
+            name: 綾瀬車庫行
+            origin: 湘南台駅西口
+            destination: 綾瀬車庫
+            via: 慶応大学・宮原
+            sfc_direction: to
+            stops:
+            - name: 湘南台駅西口
+              cumulative_time: 0
+            - name: 円行上庭
+              cumulative_time: 1
+            - name: 北警察署前
+              cumulative_time: 2
+            - name: 工業団地入口
+              cumulative_time: 4
+            - name: 南大山
+              cumulative_time: 5
+            - name: 遠藤
+              cumulative_time: 7
+            - name: 藤沢ジャンボゴルフ前
+              cumulative_time: 8
+            - name: 慶応大学
+              cumulative_time: 11
+            csv_files:
+              special_20260728: csv/sho19_to_weekday.csv
+          sho19_from:
+            name: 湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: 宮原・慶応大学
+            sfc_direction: from
+            stops:
+            - name: 慶応大学
+              cumulative_time: 0
+            - name: 藤沢ジャンボゴルフ前
+              cumulative_time: 1
+            - name: 遠藤
+              cumulative_time: 2
+            - name: 南大山
+              cumulative_time: 4
+            - name: 工業団地入口
+              cumulative_time: 5
+            - name: 北警察署前
+              cumulative_time: 6
+            - name: 湘南台駅西口
+              cumulative_time: 12
+            csv_files:
+              special_20260728: csv/sho19_from_weekday.csv
+      sho23:
+        name: 湘23
+        paths:
+          sho23_to:
+            name: 慶応中高等部前行
+            origin: 湘南台駅西口
+            destination: 慶応中高等部前
+            via: 遠藤
+            sfc_direction: to
+            stops:
+            - name: 湘南台駅西口
+              cumulative_time: 0
+            - name: 円行上庭
+              cumulative_time: 1
+            - name: 北警察署前
+              cumulative_time: 2
+            - name: 工業団地入口
+              cumulative_time: 4
+            - name: 南大山
+              cumulative_time: 5
+            - name: 遠藤
+              cumulative_time: 7
+            - name: 藤沢ジャンボゴルフ前
+              cumulative_time: 8
+            - name: 慶応大学
+              cumulative_time: 11
+            - name: 慶応大学本館前
+              cumulative_time: 12
+            - name: 慶応中高等部前
+              cumulative_time: 15
+            csv_files:
+              special_20260728: csv/sho23_to_weekday.csv
+          sho23_from_honkan:
+            name: 湘南台駅西口行
+            origin: 慶応大学本館前
+            destination: 湘南台駅西口
+            via: 遠藤
+            sfc_direction: from
+            stops:
+            - name: 慶応大学本館前
+              cumulative_time: 0
+            - name: 慶応大学
+              cumulative_time: 1
+            - name: 藤沢ジャンボゴルフ前
+              cumulative_time: 2
+            - name: 遠藤
+              cumulative_time: 3
+            - name: 南大山
+              cumulative_time: 5
+            - name: 工業団地入口
+              cumulative_time: 6
+            - name: 北警察署前
+              cumulative_time: 7
+            - name: 湘南台駅西口
+              cumulative_time: 13
+            csv_files:
+              special_20260728: csv/special/20260728_sho23_from_honkan.csv
+          sho23_from_rotary:
+            name: 湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: 遠藤
+            sfc_direction: from
+            stops:
+            - name: 慶応大学
+              cumulative_time: 0
+            - name: 藤沢ジャンボゴルフ前
+              cumulative_time: 1
+            - name: 遠藤
+              cumulative_time: 2
+            - name: 南大山
+              cumulative_time: 4
+            - name: 工業団地入口
+              cumulative_time: 5
+            - name: 北警察署前
+              cumulative_time: 6
+            - name: 湘南台駅西口
+              cumulative_time: 11
+            csv_files:
+              special_20260728: csv/sho23_from_rotary_weekday.csv
+      sho24:
+        name: 湘24
+        paths:
+          sho24_to:
+            name: 慶応中高等部前行
+            origin: 湘南台駅西口
+            destination: 慶応中高等部前
+            via: 遠藤・笹久保
+            sfc_direction: to
+            stops:
+            - name: 湘南台駅西口
+              cumulative_time: 0
+            - name: 円行上庭
+              cumulative_time: 1
+            - name: 北警察署前
+              cumulative_time: 2
+            - name: 工業団地入口
+              cumulative_time: 4
+            - name: 南大山
+              cumulative_time: 5
+            - name: 遠藤
+              cumulative_time: 7
+            - name: 六地蔵
+              cumulative_time: 9
+            - name: 仲之桜
+              cumulative_time: 10
+            - name: 笹久保
+              cumulative_time: 11
+            - name: 慶応大学
+              cumulative_time: 13
+            - name: 慶応大学本館前
+              cumulative_time: 14
+            - name: 慶応中高等部前
+              cumulative_time: 16
+            csv_files:
+              special_20260728: csv/sho24_to_weekday.csv
+          sho24_from:
+            name: 湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: 笹久保・遠藤
+            sfc_direction: from
+            stops:
+            - name: 慶応大学
+              cumulative_time: 0
+            - name: 笹久保
+              cumulative_time: 2
+            - name: 仲之桜
+              cumulative_time: 3
+            - name: 六地蔵
+              cumulative_time: 4
+            - name: 遠藤
+              cumulative_time: 5
+            - name: 南大山
+              cumulative_time: 7
+            - name: 工業団地入口
+              cumulative_time: 8
+            - name: 北警察署前
+              cumulative_time: 9
+            - name: 湘南台駅西口
+              cumulative_time: 15
+            csv_files:
+              special_20260728: csv/sho24_from_weekday.csv
+      sho25:
+        name: 湘25
+        paths:
+          sho25_to:
+            name: ツインライナー 急行・慶応大学行
+            origin: 湘南台駅西口
+            destination: 慶応中高等部前
+            via: ツインライナー急行・南大山
+            sfc_direction: to
+            stops:
+            - name: 湘南台駅西口
+              cumulative_time: 0
+            - name: 南大山
+              cumulative_time: 5
+            - name: 慶応大学
+              cumulative_time: 9
+            - name: 慶応大学本館前
+              cumulative_time: 12
+            - name: 慶応中高等部前
+              cumulative_time: 15
+            csv_files:
+              special_20260728: csv/sho25_to_weekday.csv
+          sho25_from_honkan:
+            name: ツインライナー 急行・湘南台駅西口行
+            origin: 慶応大学本館前
+            destination: 湘南台駅西口
+            via: ツインライナー急行・南大山
+            sfc_direction: from
+            stops:
+            - name: 慶応大学本館前
+              cumulative_time: 0
+            - name: 慶応大学
+              cumulative_time: 1
+            - name: 南大山
+              cumulative_time: 5
+            - name: 湘南台駅西口
+              cumulative_time: 16
+            csv_files:
+              special_20260728: csv/sho25_from_honkan_weekday.csv
+          sho25_from_rotary:
+            name: ツインライナー 急行・湘南台駅西口行
+            origin: 慶応大学
+            destination: 湘南台駅西口
+            via: ツインライナー急行・南大山
+            sfc_direction: from
+            stops:
+            - name: 慶応大学
+              cumulative_time: 0
+            - name: 南大山
+              cumulative_time: 4
+            - name: 湘南台駅西口
+              cumulative_time: 13
+            csv_files:
+              special_20260728: csv/sho25_from_rotary_weekday.csv
+      sho28:
+        name: 湘28
+        paths:
+          sho28_to:
+            name: 直行 慶応中高等部前行
+            origin: 湘南台駅西口
+            destination: 慶応中高等部前
+            via: 直行
+            sfc_direction: to
+            stops:
+            - name: 湘南台駅西口
+              cumulative_time: 0
+            - name: 慶応中高等部前
+              cumulative_time: 13
+            csv_files:
+              special_20260728: csv/sho28_to_weekday.csv
+          sho28_from:
+            name: 直行 湘南台駅西口行
+            origin: 慶応大学本館前
+            destination: 湘南台駅西口
+            via: 直行
+            sfc_direction: from
+            stops:
+            - name: 慶応中高等部前
+              cumulative_time: 0
+            - name: 湘南台駅西口
+              cumulative_time: 13
+            csv_files:
+              special_20260728: csv/sho28_from_weekday.csv
+
   - date: "2026-07-20"
     description: 慶應義塾大学湘南藤沢キャンパス祝日授業に伴う臨時便の運行および起終点の変更
     type: special_20260720

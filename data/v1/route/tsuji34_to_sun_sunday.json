@@ -1,0 +1,120 @@
+{
+  "route_id": "tsuji34",
+  "path_id": "tsuji34_to_sun",
+  "name": "慶応大学行",
+  "origin": "辻堂駅北口",
+  "destination": "慶応大学",
+  "via": "大庭隧道・駒寄",
+  "stops": [
+    {
+      "name": "辻堂駅北口",
+      "cumulative_time": 0
+    },
+    {
+      "name": "神台公園前",
+      "cumulative_time": 1
+    },
+    {
+      "name": "羽鳥一丁目",
+      "cumulative_time": 2
+    },
+    {
+      "name": "城南一丁目",
+      "cumulative_time": 3
+    },
+    {
+      "name": "大庭隧道",
+      "cumulative_time": 4
+    },
+    {
+      "name": "有藤",
+      "cumulative_time": 5
+    },
+    {
+      "name": "西高校前",
+      "cumulative_time": 6
+    },
+    {
+      "name": "南センター前",
+      "cumulative_time": 7
+    },
+    {
+      "name": "小糸",
+      "cumulative_time": 8
+    },
+    {
+      "name": "大庭小学校",
+      "cumulative_time": 9
+    },
+    {
+      "name": "ライフタウン中央",
+      "cumulative_time": 10
+    },
+    {
+      "name": "二番構保健医療センター",
+      "cumulative_time": 11
+    },
+    {
+      "name": "駒寄",
+      "cumulative_time": 12
+    },
+    {
+      "name": "滝の沢（藤沢市）",
+      "cumulative_time": 13
+    },
+    {
+      "name": "滝の沢不動前",
+      "cumulative_time": 14
+    },
+    {
+      "name": "湘南ライフタウン",
+      "cumulative_time": 15
+    },
+    {
+      "name": "刈込",
+      "cumulative_time": 18
+    },
+    {
+      "name": "諸之木",
+      "cumulative_time": 19
+    },
+    {
+      "name": "慶応大学",
+      "cumulative_time": 24
+    }
+  ],
+  "timetable": [
+    {
+      "time": 9,
+      "minute": 14
+    },
+    {
+      "time": 10,
+      "minute": 34
+    },
+    {
+      "time": 11,
+      "minute": 54
+    },
+    {
+      "time": 13,
+      "minute": 14
+    },
+    {
+      "time": 14,
+      "minute": 34
+    },
+    {
+      "time": 15,
+      "minute": 54
+    },
+    {
+      "time": 17,
+      "minute": 14
+    },
+    {
+      "time": 18,
+      "minute": 34
+    }
+  ]
+}

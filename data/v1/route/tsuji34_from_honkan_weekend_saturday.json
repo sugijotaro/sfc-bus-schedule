@@ -1,0 +1,152 @@
+{
+  "route_id": "tsuji34",
+  "path_id": "tsuji34_from_honkan_weekend",
+  "name": "辻堂駅北口行",
+  "origin": "慶応大学本館前",
+  "destination": "辻堂駅北口",
+  "via": "駒寄・大庭隧道",
+  "stops": [
+    {
+      "name": "慶応大学本館前",
+      "cumulative_time": 0
+    },
+    {
+      "name": "慶応大学",
+      "cumulative_time": 1
+    },
+    {
+      "name": "諸之木",
+      "cumulative_time": 2
+    },
+    {
+      "name": "刈込",
+      "cumulative_time": 3
+    },
+    {
+      "name": "湘南ライフタウン",
+      "cumulative_time": 8
+    },
+    {
+      "name": "滝の沢不動前",
+      "cumulative_time": 9
+    },
+    {
+      "name": "滝の沢（藤沢市）",
+      "cumulative_time": 10
+    },
+    {
+      "name": "駒寄",
+      "cumulative_time": 11
+    },
+    {
+      "name": "二番構保健医療センター",
+      "cumulative_time": 12
+    },
+    {
+      "name": "ライフタウン中央",
+      "cumulative_time": 13
+    },
+    {
+      "name": "大庭小学校",
+      "cumulative_time": 14
+    },
+    {
+      "name": "小糸",
+      "cumulative_time": 15
+    },
+    {
+      "name": "南センター前",
+      "cumulative_time": 16
+    },
+    {
+      "name": "西高校前",
+      "cumulative_time": 17
+    },
+    {
+      "name": "有藤",
+      "cumulative_time": 18
+    },
+    {
+      "name": "大庭隧道",
+      "cumulative_time": 19
+    },
+    {
+      "name": "城南一丁目",
+      "cumulative_time": 20
+    },
+    {
+      "name": "神台公園前",
+      "cumulative_time": 22
+    },
+    {
+      "name": "辻堂駅北口",
+      "cumulative_time": 25
+    }
+  ],
+  "timetable": [
+    {
+      "time": 12,
+      "minute": 37
+    },
+    {
+      "time": 12,
+      "minute": 57
+    },
+    {
+      "time": 13,
+      "minute": 17
+    },
+    {
+      "time": 13,
+      "minute": 37
+    },
+    {
+      "time": 13,
+      "minute": 57
+    },
+    {
+      "time": 14,
+      "minute": 17
+    },
+    {
+      "time": 14,
+      "minute": 37
+    },
+    {
+      "time": 15,
+      "minute": 17
+    },
+    {
+      "time": 15,
+      "minute": 37
+    },
+    {
+      "time": 16,
+      "minute": 17
+    },
+    {
+      "time": 16,
+      "minute": 37
+    },
+    {
+      "time": 17,
+      "minute": 17
+    },
+    {
+      "time": 17,
+      "minute": 37
+    },
+    {
+      "time": 18,
+      "minute": 17
+    },
+    {
+      "time": 18,
+      "minute": 37
+    },
+    {
+      "time": 19,
+      "minute": 36
+    }
+  ]
+}

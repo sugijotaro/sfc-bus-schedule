@@ -1,0 +1,4799 @@
+[
+  {
+    "id": "tsuji340818",
+    "time": 8,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 8,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 8,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 8,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 8,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 8,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 8,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 8,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 8,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji340838",
+    "time": 8,
+    "minute": 38,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 8,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 8,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 8,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 8,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 8,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 8,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 8,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 8,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 8,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 8,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 8,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 8,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 8,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 8,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 8,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 9,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji340858",
+    "time": 8,
+    "minute": 58,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 8,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 8,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 9,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 9,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 9,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 9,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 9,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 9,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 9,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 9,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 9,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji340918",
+    "time": 9,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 9,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 9,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 9,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 9,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 9,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 9,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 9,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 9,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 9,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji340938",
+    "time": 9,
+    "minute": 38,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 9,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 9,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 9,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 9,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 9,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 9,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 9,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 9,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 9,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 9,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 9,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 9,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 9,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 9,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 9,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 10,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji340958",
+    "time": 9,
+    "minute": 58,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 9,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 9,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 10,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 10,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 10,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 10,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 10,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 10,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 10,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 10,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 10,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 10,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341018",
+    "time": 10,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 10,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 10,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 10,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 10,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 10,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 10,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 10,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 10,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 10,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 10,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341038",
+    "time": 10,
+    "minute": 38,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 10,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 10,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 10,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 10,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 10,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 10,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 10,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 10,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 10,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 10,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 10,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 10,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 10,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 10,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 10,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 11,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341058",
+    "time": 10,
+    "minute": 58,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 10,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 10,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 11,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 11,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 11,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 11,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 11,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 11,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 11,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 11,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 11,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341118",
+    "time": 11,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 11,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 11,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 11,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 11,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 11,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 11,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 11,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 11,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 11,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341138",
+    "time": 11,
+    "minute": 38,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 11,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 11,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 11,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 11,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 11,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 11,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 11,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 11,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 11,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 11,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 11,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 11,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 11,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 11,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 11,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 12,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341158",
+    "time": 11,
+    "minute": 58,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 11,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 11,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 12,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 12,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 12,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 12,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 12,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 12,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 12,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 12,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 12,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341218",
+    "time": 12,
+    "minute": 18,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 7,
+          "arrival": {
+            "time": 12,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 12,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 12,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 12,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 12,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 12,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 12,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 12,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 21,
+          "arrival": {
+            "time": 12,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 24,
+          "arrival": {
+            "time": 12,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341237",
+    "time": 12,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 12,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 12,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 12,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 12,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 12,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 12,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 12,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 12,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 12,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 12,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 12,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 12,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 12,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 12,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 12,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 13,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341257",
+    "time": 12,
+    "minute": 57,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 12,
+            "minute": 57
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 12,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 12,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 13,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 13,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 13,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 13,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 13,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 13,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 13,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 13,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 13,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 13,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 13,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341317",
+    "time": 13,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 13,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 13,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 13,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 13,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 13,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 13,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 13,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 13,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 13,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 13,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 13,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341337",
+    "time": 13,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 13,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 13,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 13,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 13,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 13,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 13,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 13,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 13,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 13,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 13,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 13,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 13,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 13,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 13,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 13,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 14,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341357",
+    "time": 13,
+    "minute": 57,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 13,
+            "minute": 57
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 13,
+            "minute": 58
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 13,
+            "minute": 59
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 14,
+            "minute": 0
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 5
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 6
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 14,
+            "minute": 7
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 8
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 9
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 14,
+            "minute": 10
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 14,
+            "minute": 11
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 12
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 14,
+            "minute": 13
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 14,
+            "minute": 14
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 14,
+            "minute": 15
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 14,
+            "minute": 16
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 14,
+            "minute": 17
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 14,
+            "minute": 19
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 14,
+            "minute": 22
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341417",
+    "time": 14,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 14,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 14,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 14,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 14,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 14,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 14,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 14,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 14,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 14,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 14,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 14,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 14,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 14,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341437",
+    "time": 14,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 14,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 14,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 14,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 14,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 14,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 14,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 14,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 14,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 14,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 14,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 14,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 14,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 14,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 14,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 14,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 14,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 14,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 14,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 15,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341517",
+    "time": 15,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 15,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 15,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 15,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 15,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 15,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 15,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 15,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 15,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 15,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 15,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 15,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 15,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 15,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341537",
+    "time": 15,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 15,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 15,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 15,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 15,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 15,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 15,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 15,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 15,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 15,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 15,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 15,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 15,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 15,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 15,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 15,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 15,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 15,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 15,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 16,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341617",
+    "time": 16,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 16,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 16,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 16,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 16,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 16,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 16,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 16,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 16,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 16,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 16,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 16,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 16,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 16,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 16,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341637",
+    "time": 16,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 16,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 16,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 16,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 16,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 16,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 16,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 16,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 16,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 16,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 16,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 16,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 16,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 16,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 16,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 16,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 16,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 16,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 16,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 17,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341717",
+    "time": 17,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 17,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 17,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 17,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 17,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 17,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 17,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 17,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 17,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 17,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 17,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 17,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 17,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 17,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 17,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 17,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341737",
+    "time": 17,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 17,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 17,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 17,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 17,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 17,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 17,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 17,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 17,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 17,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 17,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 17,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 17,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 17,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 17,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 17,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 17,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 17,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 17,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 18,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341817",
+    "time": 18,
+    "minute": 17,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 17
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 18,
+            "minute": 18
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 18,
+            "minute": 19
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 18,
+            "minute": 20
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 18,
+            "minute": 25
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 18,
+            "minute": 26
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 18,
+            "minute": 27
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 18,
+            "minute": 28
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 18,
+            "minute": 29
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 18,
+            "minute": 30
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 18,
+            "minute": 31
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 18,
+            "minute": 32
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 18,
+            "minute": 33
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 18,
+            "minute": 34
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 18,
+            "minute": 35
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 18,
+            "minute": 36
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 18,
+            "minute": 37
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 18,
+            "minute": 39
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 18,
+            "minute": 42
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341837",
+    "time": 18,
+    "minute": 37,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 18,
+            "minute": 37
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 18,
+            "minute": 38
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 18,
+            "minute": 39
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 18,
+            "minute": 40
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 18,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 18,
+            "minute": 46
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 18,
+            "minute": 47
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 18,
+            "minute": 48
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 18,
+            "minute": 49
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 18,
+            "minute": 50
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 18,
+            "minute": 51
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 18,
+            "minute": 52
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 18,
+            "minute": 53
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 18,
+            "minute": 54
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 18,
+            "minute": 55
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 18,
+            "minute": 56
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 18,
+            "minute": 57
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 18,
+            "minute": 59
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 19,
+            "minute": 2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "tsuji341936",
+    "time": 19,
+    "minute": 36,
+    "scheduleType": "saturday",
+    "routeCode": "tsuji34",
+    "routeName": "辻34",
+    "name": "辻堂駅北口行",
+    "origin": "慶応大学本館前",
+    "destination": "辻堂駅北口",
+    "via": "駒寄・大庭隧道",
+    "sfc_direction": "from_sfc",
+    "metadata": {
+      "stops": [
+        {
+          "name": "慶応大学本館前",
+          "cumulative_time": 0,
+          "arrival": {
+            "time": 19,
+            "minute": 36
+          }
+        },
+        {
+          "name": "慶応大学",
+          "cumulative_time": 1,
+          "arrival": {
+            "time": 19,
+            "minute": 37
+          }
+        },
+        {
+          "name": "諸之木",
+          "cumulative_time": 2,
+          "arrival": {
+            "time": 19,
+            "minute": 38
+          }
+        },
+        {
+          "name": "刈込",
+          "cumulative_time": 3,
+          "arrival": {
+            "time": 19,
+            "minute": 39
+          }
+        },
+        {
+          "name": "湘南ライフタウン",
+          "cumulative_time": 8,
+          "arrival": {
+            "time": 19,
+            "minute": 44
+          }
+        },
+        {
+          "name": "滝の沢不動前",
+          "cumulative_time": 9,
+          "arrival": {
+            "time": 19,
+            "minute": 45
+          }
+        },
+        {
+          "name": "滝の沢（藤沢市）",
+          "cumulative_time": 10,
+          "arrival": {
+            "time": 19,
+            "minute": 46
+          }
+        },
+        {
+          "name": "駒寄",
+          "cumulative_time": 11,
+          "arrival": {
+            "time": 19,
+            "minute": 47
+          }
+        },
+        {
+          "name": "二番構保健医療センター",
+          "cumulative_time": 12,
+          "arrival": {
+            "time": 19,
+            "minute": 48
+          }
+        },
+        {
+          "name": "ライフタウン中央",
+          "cumulative_time": 13,
+          "arrival": {
+            "time": 19,
+            "minute": 49
+          }
+        },
+        {
+          "name": "大庭小学校",
+          "cumulative_time": 14,
+          "arrival": {
+            "time": 19,
+            "minute": 50
+          }
+        },
+        {
+          "name": "小糸",
+          "cumulative_time": 15,
+          "arrival": {
+            "time": 19,
+            "minute": 51
+          }
+        },
+        {
+          "name": "南センター前",
+          "cumulative_time": 16,
+          "arrival": {
+            "time": 19,
+            "minute": 52
+          }
+        },
+        {
+          "name": "西高校前",
+          "cumulative_time": 17,
+          "arrival": {
+            "time": 19,
+            "minute": 53
+          }
+        },
+        {
+          "name": "有藤",
+          "cumulative_time": 18,
+          "arrival": {
+            "time": 19,
+            "minute": 54
+          }
+        },
+        {
+          "name": "大庭隧道",
+          "cumulative_time": 19,
+          "arrival": {
+            "time": 19,
+            "minute": 55
+          }
+        },
+        {
+          "name": "城南一丁目",
+          "cumulative_time": 20,
+          "arrival": {
+            "time": 19,
+            "minute": 56
+          }
+        },
+        {
+          "name": "神台公園前",
+          "cumulative_time": 22,
+          "arrival": {
+            "time": 19,
+            "minute": 58
+          }
+        },
+        {
+          "name": "辻堂駅北口",
+          "cumulative_time": 25,
+          "arrival": {
+            "time": 20,
+            "minute": 1
+          }
+        }
+      ]
+    }
+  }
+]

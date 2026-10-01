@@ -1,0 +1,60 @@
+{
+  "route_id": "tsuji35",
+  "path_id": "tsuji35_from_rotary",
+  "name": "ツインライナー 急行・辻堂駅北口行",
+  "origin": "慶応大学",
+  "destination": "辻堂駅北口",
+  "via": "ツインライナー急行・駒寄",
+  "stops": [
+    {
+      "name": "慶応大学",
+      "cumulative_time": 0
+    },
+    {
+      "name": "諸之木",
+      "cumulative_time": 1
+    },
+    {
+      "name": "刈込",
+      "cumulative_time": 2
+    },
+    {
+      "name": "湘南ライフタウン",
+      "cumulative_time": 7
+    },
+    {
+      "name": "滝の沢不動前",
+      "cumulative_time": 8
+    },
+    {
+      "name": "滝の沢（藤沢市）",
+      "cumulative_time": 9
+    },
+    {
+      "name": "駒寄",
+      "cumulative_time": 10
+    },
+    {
+      "name": "二番構保健医療センター",
+      "cumulative_time": 11
+    },
+    {
+      "name": "ライフタウン中央",
+      "cumulative_time": 12
+    },
+    {
+      "name": "小糸",
+      "cumulative_time": 14
+    },
+    {
+      "name": "辻堂駅北口",
+      "cumulative_time": 24
+    }
+  ],
+  "timetable": [
+    {
+      "time": 9,
+      "minute": 18
+    }
+  ]
+}

@@ -610,7 +610,7 @@ routes:
     station: tsujido
     paths:
       tsuji35_to:
-        name: ツインライナー 急行・慶応大学行
+        name: ツインライナー 急行・慶応中高降車場行
         origin: 辻堂駅北口
         destination: 慶応中高降車場
         via: ツインライナー急行・駒寄

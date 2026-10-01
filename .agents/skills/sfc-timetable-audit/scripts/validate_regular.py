@@ -9,7 +9,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[4]
 ROUTES_FILE = ROOT / "config/routes.yaml"
-SUPPORTED_ROUTES = {"sho19", "sho23", "sho24", "sho25", "sho28"}
+SUPPORTED_ROUTES = {"sho19", "sho23", "sho24", "sho25", "sho28", "tsuji34", "tsuji35"}
 
 
 def main() -> int:

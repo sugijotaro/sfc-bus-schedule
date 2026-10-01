@@ -1,6 +1,6 @@
 ---
 name: sfc-timetable-audit
-description: Audit the current regular SFC bus schedules for 湘19, 湘23, 湘24, 湘25, and 湘28 against Kanachu's official NAVITIME timetable and bus-route pages. Use when checking whether regular CSV times and route metadata are current, investigating a timetable discrepancy, or preparing for a regular timetable correction after a service change. This skill excludes special schedules and future/revised schedules that are not yet effective.
+description: Audit the current regular SFC bus schedules for 湘19, 湘23, 湘24, 湘25, 湘28, 辻34, and 辻35 against Kanachu's official NAVITIME timetable and bus-route pages. Use when checking whether regular CSV times and route metadata are current, investigating a timetable discrepancy, or preparing for a regular timetable correction after a service change. This skill excludes special schedules and future/revised schedules that are not yet effective.
 ---
 
 # SFC Regular Timetable Audit
@@ -9,7 +9,8 @@ Audit only the currently effective regular timetable. Tell the user at the start
 
 ## Guardrails
 
-- Limit the audit to 湘19, 湘23, 湘24, 湘25, and 湘28.
+- Limit the audit to 湘19, 湘23, 湘24, 湘25, 湘28, 辻34, and 辻35.
+- Routes with `station: tsujido` in `config/routes.yaml` (辻34, 辻35) serve 辻堂駅北口. Audit them against the 辻堂駅北口 pages, not the 湘南台駅西口 pages.
 - If `config/routes.yaml` contains another SFC route, stop and tell the user to update this skill before auditing that route.
 - Check only the timetable marked current by the official site. Do not incorporate a linked future revision.
 - If a future revision is advertised, mention its effective date as a caveat without auditing or editing it.
@@ -27,7 +28,7 @@ Audit only the currently effective regular timetable. Tell the user at the start
 
 ## Browse the Official Timetables
 
-1. Open the 湘南台駅西口 system list and confirm the displayed “現在” date.
+1. Open the 湘南台駅西口 and 辻堂駅北口 system lists and confirm the displayed “現在” date.
 2. Open each outbound timetable from the official system list.
 3. Open the 慶応大学 and 慶応大学本館前 system lists for return service.
 4. On every timetable containing multiple services, open **系統別の選択**.
@@ -47,6 +48,8 @@ For return trips, never merge these campus origins:
 - 慶応中高等部前
 
 An arrival at a campus stop does not prove that return service departs there.
+
+For 辻34 and 辻35, also compare the stop order per day type. Weekday and weekend return trips use different course IDs with different stop lists, so they are separate paths (`*_weekend`). Travel times vary slightly by time of day; `cumulative_time` holds the most common pattern.
 
 ## Compare with the Repository
 

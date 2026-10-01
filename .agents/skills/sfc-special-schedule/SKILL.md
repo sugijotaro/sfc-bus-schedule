@@ -53,7 +53,9 @@ Create the new entry at the top of `config/special_schedules.yaml`:
 - `description`: the approved announcement text;
 - `routes`: a complete copy of all route paths that operate in the selected base service.
 
-For every path in `config/routes.yaml` with a CSV for the selected base service:
+Routes with a `station` key other than the default (for example `station: tsujido` for 辻34 and 辻35) are not part of special schedules. Do not copy them.
+
+For every other path in `config/routes.yaml` with a CSV for the selected base service:
 
 1. Copy the route and path metadata into the special schedule.
 2. Replace the day-type key under `csv_files` with `special_YYYYMMDD`.

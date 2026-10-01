@@ -6,6 +6,8 @@ import json
 from pathlib import Path
 
 VERSION = "v1"
+# stationキーを省略したルートは湘南台駅発着として扱う
+DEFAULT_STATION = "shonandai"
 
 def load_routes_config():
     """Load routes configuration from YAML file"""
@@ -68,9 +70,11 @@ def generate_route_json(config, day_types):
 
 def generate_flat_json(config, day_types):
     """Generate aggregated flat JSON files for specified day types"""
-    aggregated = {f"{direction}_{day_type}": [] for direction in ["to", "from"] for day_type in day_types}
+    # 駅ごとに集計する（既存のflat/は湘南台のみ、他の駅は{station}/flat/に出力）
+    aggregated = {}
 
     for route_id, route_data in config["routes"].items():
+        station = route_data.get("station", DEFAULT_STATION)
         for path_id, path_data in route_data["paths"].items():
             sfc_direction = path_data.get("sfc_direction", "").lower()
             if sfc_direction not in ["to", "from"]:
@@ -112,16 +116,16 @@ def generate_flat_json(config, day_types):
                         new_stops.append(new_stop)
                     record["metadata"]["stops"] = new_stops
 
-                    agg_key = f"{sfc_direction}_{day_type}"
-                    aggregated[agg_key].append(record)
+                    agg_key = (station, sfc_direction, day_type)
+                    aggregated.setdefault(agg_key, []).append(record)
 
-    output_dir = os.path.join("data", VERSION, "flat")
-    os.makedirs(output_dir, exist_ok=True)
-    
-    for key, records in aggregated.items():
-        if not records: continue
+    for (station, direction, day), records in aggregated.items():
+        if station == DEFAULT_STATION:
+            output_dir = os.path.join("data", VERSION, "flat")
+        else:
+            output_dir = os.path.join("data", VERSION, station, "flat")
+        os.makedirs(output_dir, exist_ok=True)
         records.sort(key=lambda x: x["time"] * 60 + x["minute"])
-        direction, day = key.split("_", 1)
         output_file = os.path.join(output_dir, f"{direction}_sfc_{day}.json")
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(records, f, ensure_ascii=False, indent=2)
@@ -152,6 +156,9 @@ def generate_special_flat_json(special_config, schedule_type):
     aggregated = {"to": [], "from": []}
 
     for route_id, route_data in special_config["routes"].items():
+        # 臨時ダイヤのJSONは湘南台駅発着のみを対象にする
+        if route_data.get("station", DEFAULT_STATION) != DEFAULT_STATION:
+            continue
         for path_id, path_data in route_data["paths"].items():
             sfc_direction = path_data.get("sfc_direction", "").lower()
             if sfc_direction not in ["to", "from"]:

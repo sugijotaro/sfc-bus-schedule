@@ -313,3 +313,400 @@ routes:
             cumulative_time: 13
         csv_files:
           weekday: csv/sho28_from_weekday.csv
+  tsuji34:
+    name: 辻34
+    station: tsujido
+    paths:
+      tsuji34_to:
+        name: 慶応中高降車場行
+        origin: 辻堂駅北口
+        destination: 慶応中高降車場
+        via: 大庭隧道・駒寄
+        sfc_direction: to
+        stops:
+          - name: 辻堂駅北口
+            cumulative_time: 0
+          - name: 神台公園前
+            cumulative_time: 1
+          - name: 羽鳥一丁目
+            cumulative_time: 2
+          - name: 城南一丁目
+            cumulative_time: 3
+          - name: 大庭隧道
+            cumulative_time: 4
+          - name: 有藤
+            cumulative_time: 5
+          - name: 西高校前
+            cumulative_time: 6
+          - name: 南センター前
+            cumulative_time: 7
+          - name: 小糸
+            cumulative_time: 8
+          - name: 大庭小学校
+            cumulative_time: 9
+          - name: ライフタウン中央
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: 駒寄
+            cumulative_time: 12
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 13
+          - name: 滝の沢不動前
+            cumulative_time: 14
+          - name: 湘南ライフタウン
+            cumulative_time: 15
+          - name: 刈込
+            cumulative_time: 18
+          - name: 諸之木
+            cumulative_time: 19
+          - name: 慶応大学
+            cumulative_time: 20
+          - name: 慶応大学本館前
+            cumulative_time: 21
+          - name: 慶応中高降車場
+            cumulative_time: 25
+        csv_files:
+          weekday: csv/tsuji34_to_weekday.csv
+          saturday: csv/tsuji34_to_saturday.csv
+      tsuji34_to_sun:
+        name: 慶応大学行
+        origin: 辻堂駅北口
+        destination: 慶応大学
+        via: 大庭隧道・駒寄
+        sfc_direction: to
+        stops:
+          - name: 辻堂駅北口
+            cumulative_time: 0
+          - name: 神台公園前
+            cumulative_time: 1
+          - name: 羽鳥一丁目
+            cumulative_time: 2
+          - name: 城南一丁目
+            cumulative_time: 3
+          - name: 大庭隧道
+            cumulative_time: 4
+          - name: 有藤
+            cumulative_time: 5
+          - name: 西高校前
+            cumulative_time: 6
+          - name: 南センター前
+            cumulative_time: 7
+          - name: 小糸
+            cumulative_time: 8
+          - name: 大庭小学校
+            cumulative_time: 9
+          - name: ライフタウン中央
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: 駒寄
+            cumulative_time: 12
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 13
+          - name: 滝の沢不動前
+            cumulative_time: 14
+          - name: 湘南ライフタウン
+            cumulative_time: 15
+          - name: 刈込
+            cumulative_time: 18
+          - name: 諸之木
+            cumulative_time: 19
+          - name: 慶応大学
+            cumulative_time: 24
+        csv_files:
+          sunday: csv/tsuji34_to_sun_sunday.csv
+      tsuji34_from_honkan:
+        name: 辻堂駅北口行
+        origin: 慶応大学本館前
+        destination: 辻堂駅北口
+        via: 駒寄・大庭隧道
+        sfc_direction: from
+        stops:
+          - name: 慶応大学本館前
+            cumulative_time: 0
+          - name: 慶応大学
+            cumulative_time: 1
+          - name: 諸之木
+            cumulative_time: 2
+          - name: 刈込
+            cumulative_time: 3
+          - name: 湘南ライフタウン
+            cumulative_time: 8
+          - name: 滝の沢不動前
+            cumulative_time: 9
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 10
+          - name: 駒寄
+            cumulative_time: 11
+          - name: 二番構保健医療センター
+            cumulative_time: 12
+          - name: ライフタウン中央
+            cumulative_time: 13
+          - name: 大庭小学校
+            cumulative_time: 14
+          - name: 小糸
+            cumulative_time: 15
+          - name: 南センター前
+            cumulative_time: 16
+          - name: 西高校前
+            cumulative_time: 17
+          - name: 有藤
+            cumulative_time: 18
+          - name: 大庭隧道
+            cumulative_time: 19
+          - name: 城南一丁目
+            cumulative_time: 20
+          - name: 羽鳥一丁目
+            cumulative_time: 21
+          - name: 神台公園前
+            cumulative_time: 21
+          - name: 辻堂駅北口
+            cumulative_time: 26
+        csv_files:
+          weekday: csv/tsuji34_from_honkan_weekday.csv
+      tsuji34_from_honkan_weekend:
+        name: 辻堂駅北口行
+        origin: 慶応大学本館前
+        destination: 辻堂駅北口
+        via: 駒寄・大庭隧道
+        sfc_direction: from
+        stops:
+          - name: 慶応大学本館前
+            cumulative_time: 0
+          - name: 慶応大学
+            cumulative_time: 1
+          - name: 諸之木
+            cumulative_time: 2
+          - name: 刈込
+            cumulative_time: 3
+          - name: 湘南ライフタウン
+            cumulative_time: 8
+          - name: 滝の沢不動前
+            cumulative_time: 9
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 10
+          - name: 駒寄
+            cumulative_time: 11
+          - name: 二番構保健医療センター
+            cumulative_time: 12
+          - name: ライフタウン中央
+            cumulative_time: 13
+          - name: 大庭小学校
+            cumulative_time: 14
+          - name: 小糸
+            cumulative_time: 15
+          - name: 南センター前
+            cumulative_time: 16
+          - name: 西高校前
+            cumulative_time: 17
+          - name: 有藤
+            cumulative_time: 18
+          - name: 大庭隧道
+            cumulative_time: 19
+          - name: 城南一丁目
+            cumulative_time: 20
+          - name: 神台公園前
+            cumulative_time: 22
+          - name: 辻堂駅北口
+            cumulative_time: 25
+        csv_files:
+          saturday: csv/tsuji34_from_honkan_weekend_saturday.csv
+      tsuji34_from_rotary:
+        name: 辻堂駅北口行
+        origin: 慶応大学
+        destination: 辻堂駅北口
+        via: 駒寄・大庭隧道
+        sfc_direction: from
+        stops:
+          - name: 慶応大学
+            cumulative_time: 0
+          - name: 諸之木
+            cumulative_time: 1
+          - name: 刈込
+            cumulative_time: 2
+          - name: 湘南ライフタウン
+            cumulative_time: 7
+          - name: 滝の沢不動前
+            cumulative_time: 8
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 9
+          - name: 駒寄
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: ライフタウン中央
+            cumulative_time: 12
+          - name: 大庭小学校
+            cumulative_time: 13
+          - name: 小糸
+            cumulative_time: 14
+          - name: 南センター前
+            cumulative_time: 15
+          - name: 西高校前
+            cumulative_time: 16
+          - name: 有藤
+            cumulative_time: 17
+          - name: 大庭隧道
+            cumulative_time: 18
+          - name: 城南一丁目
+            cumulative_time: 19
+          - name: 羽鳥一丁目
+            cumulative_time: 20
+          - name: 神台公園前
+            cumulative_time: 21
+          - name: 辻堂駅北口
+            cumulative_time: 24
+        csv_files:
+          weekday: csv/tsuji34_from_rotary_weekday.csv
+      tsuji34_from_rotary_weekend:
+        name: 辻堂駅北口行
+        origin: 慶応大学
+        destination: 辻堂駅北口
+        via: 駒寄・大庭隧道
+        sfc_direction: from
+        stops:
+          - name: 慶応大学
+            cumulative_time: 0
+          - name: 諸之木
+            cumulative_time: 1
+          - name: 刈込
+            cumulative_time: 2
+          - name: 湘南ライフタウン
+            cumulative_time: 7
+          - name: 滝の沢不動前
+            cumulative_time: 8
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 9
+          - name: 駒寄
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: ライフタウン中央
+            cumulative_time: 12
+          - name: 大庭小学校
+            cumulative_time: 13
+          - name: 小糸
+            cumulative_time: 14
+          - name: 南センター前
+            cumulative_time: 15
+          - name: 西高校前
+            cumulative_time: 16
+          - name: 有藤
+            cumulative_time: 17
+          - name: 大庭隧道
+            cumulative_time: 18
+          - name: 城南一丁目
+            cumulative_time: 19
+          - name: 神台公園前
+            cumulative_time: 21
+          - name: 辻堂駅北口
+            cumulative_time: 24
+        csv_files:
+          saturday: csv/tsuji34_from_rotary_weekend_saturday.csv
+          sunday: csv/tsuji34_from_rotary_weekend_sunday.csv
+  tsuji35:
+    name: 辻35
+    station: tsujido
+    paths:
+      tsuji35_to:
+        name: ツインライナー 急行・慶応大学行
+        origin: 辻堂駅北口
+        destination: 慶応中高降車場
+        via: ツインライナー急行・駒寄
+        sfc_direction: to
+        stops:
+          - name: 辻堂駅北口
+            cumulative_time: 0
+          - name: 西高校前
+            cumulative_time: 6
+          - name: 小糸
+            cumulative_time: 8
+          - name: ライフタウン中央
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: 駒寄
+            cumulative_time: 12
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 13
+          - name: 滝の沢不動前
+            cumulative_time: 14
+          - name: 湘南ライフタウン
+            cumulative_time: 15
+          - name: 刈込
+            cumulative_time: 18
+          - name: 諸之木
+            cumulative_time: 19
+          - name: 慶応大学
+            cumulative_time: 20
+          - name: 慶応大学本館前
+            cumulative_time: 21
+          - name: 慶応中高降車場
+            cumulative_time: 25
+        csv_files:
+          weekday: csv/tsuji35_to_weekday.csv
+      tsuji35_from_honkan:
+        name: ツインライナー 急行・辻堂駅北口行
+        origin: 慶応大学本館前
+        destination: 辻堂駅北口
+        via: ツインライナー急行・駒寄
+        sfc_direction: from
+        stops:
+          - name: 慶応大学本館前
+            cumulative_time: 0
+          - name: 慶応大学
+            cumulative_time: 1
+          - name: 諸之木
+            cumulative_time: 2
+          - name: 刈込
+            cumulative_time: 3
+          - name: 湘南ライフタウン
+            cumulative_time: 8
+          - name: 滝の沢不動前
+            cumulative_time: 9
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 10
+          - name: 駒寄
+            cumulative_time: 11
+          - name: 二番構保健医療センター
+            cumulative_time: 12
+          - name: ライフタウン中央
+            cumulative_time: 13
+          - name: 小糸
+            cumulative_time: 15
+          - name: 辻堂駅北口
+            cumulative_time: 26
+        csv_files:
+          weekday: csv/tsuji35_from_honkan_weekday.csv
+      tsuji35_from_rotary:
+        name: ツインライナー 急行・辻堂駅北口行
+        origin: 慶応大学
+        destination: 辻堂駅北口
+        via: ツインライナー急行・駒寄
+        sfc_direction: from
+        stops:
+          - name: 慶応大学
+            cumulative_time: 0
+          - name: 諸之木
+            cumulative_time: 1
+          - name: 刈込
+            cumulative_time: 2
+          - name: 湘南ライフタウン
+            cumulative_time: 7
+          - name: 滝の沢不動前
+            cumulative_time: 8
+          - name: 滝の沢（藤沢市）
+            cumulative_time: 9
+          - name: 駒寄
+            cumulative_time: 10
+          - name: 二番構保健医療センター
+            cumulative_time: 11
+          - name: ライフタウン中央
+            cumulative_time: 12
+          - name: 小糸
+            cumulative_time: 14
+          - name: 辻堂駅北口
+            cumulative_time: 24
+        csv_files:
+          weekday: csv/tsuji35_from_rotary_weekday.csv

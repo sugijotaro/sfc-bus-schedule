@@ -5,6 +5,7 @@ Use these URLs as starting points. Navigate from the visible official system lis
 ## Current route lists
 
 - 湘南台駅西口: https://transfer-cloud.navitime.biz/kanachu/courses?busstop=00023860
+- 辻堂駅北口: https://transfer-cloud.navitime.biz/kanachu/courses?busstop=00023901
 - 慶応大学: https://transfer-cloud.navitime.biz/kanachu/courses?busstop=00023955
 - 慶応大学本館前: https://transfer-cloud.navitime.biz/kanachu/courses?busstop=00023956
 - 慶応中高等部前: https://transfer-cloud.navitime.biz/kanachu/courses?busstop=00023994
@@ -17,6 +18,8 @@ The absence of a return timetable at 慶応中高等部前 is relevant evidence,
 - 湘23・湘24: https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023860&course-sequence=0008001376-1
 - 湘25: https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023860&course-sequence=0008002337-1
 - 湘28: https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023860&course-sequence=0008001373-1
+- 辻34 (辻堂駅北口発、慶応中高降車場行と休日の慶応大学行を含む表): https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023901&course-sequence=0008002330-1
+- 辻35 (辻堂駅北口発、湘南ライフタウン止まりの辻23を含む表): https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023901&course-sequence=0008001359-1
 
 ## Return timetable starting points
 
@@ -30,6 +33,14 @@ The absence of a return timetable at 慶応中高等部前 is relevant evidence,
   https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023956&course-sequence=0008002338-1
 - 慶応大学本館前発 湘28:
   https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023956&course-sequence=0008002340-1
+- 慶応大学発および本館前発の通過便を含む辻34表:
+  https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023955&course-sequence=0008002331-1
+- 慶応大学本館前発 辻34:
+  https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023956&course-sequence=0008002332-1
+- 慶応大学発および本館前発の通過便を含む辻35表:
+  https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023955&course-sequence=0008002335-2
+- 慶応大学本館前発 辻35:
+  https://transfer-cloud.navitime.biz/kanachu/courses/timetables?busstop=00023956&course-sequence=0008002335-1
 
 ## Route-detail cross-check
 
@@ -47,5 +58,9 @@ Examples of distinct option text include:
 
 - `湘南台駅西口行 [...(慶応大学発)]`
 - `湘南台駅西口行 [...(慶応大学本館前発)]`
+- `辻堂駅北口行 [...(慶応大学発)]`
+- `辻堂駅北口行 [...(慶応大学本館前発)]`
+
+The 辻35 table at 辻堂駅北口 also lists 辻23 (湘南ライフタウン行), which does not reach SFC. Exclude it.
 
 When accessible labels contain only the route code and are duplicated, identify the checkbox by the adjacent full destination/origin text or its exact course-sequence ID obtained from the current DOM. Never select the first duplicate by position alone.

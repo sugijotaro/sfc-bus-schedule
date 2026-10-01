@@ -1,6 +1,6 @@
 # SFC Bus Schedule API
 
-慶應義塾大学 湘南藤沢キャンパス(SFC)と、電車最寄駅である湘南台駅の間を運行するバスの時刻表を、APIライクに利用できる形式で提供するプロジェクトです。
+慶應義塾大学 湘南藤沢キャンパス(SFC)と、電車最寄駅である湘南台駅・辻堂駅の間を運行するバスの時刻表を、APIライクに利用できる形式で提供するプロジェクトです。
 
 ## 特徴
 
@@ -19,6 +19,7 @@
 - 経由地
 - 停留所情報
 - 時刻表CSVファイルのパス
+- 発着駅 (`station`)。省略時は湘南台駅。辻堂駅発着の路線（辻34・辻35）は `station: tsujido` を指定
 
 ### 時刻表データ (CSV)
 各路線の時刻表をCSVファイルで管理:
@@ -59,6 +60,8 @@
 
 #### フラットJSON (`data/v1/flat/`)
 各バス便の詳細情報を提供します。停留所ごとの到着時刻も含まれます。
+
+`data/v1/flat/` には湘南台駅発着の便だけが入ります。辻堂駅発着の便は同じ形式で `data/v1/tsujido/flat/` に出力されます。
 
 例: `from_sfc_saturday.json`
 ```json
@@ -130,10 +133,15 @@
 - フラットJSON: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/{direction}_{schedule_type}.json`
   - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/flat/from_sfc_saturday.json`
 
+- フラットJSON（辻堂駅発着）: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/tsujido/flat/{direction}_{schedule_type}.json`
+  - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/tsujido/flat/to_sfc_weekday.json`
+
 ### 臨時ダイヤ
 - 臨時ダイヤメタデータ: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special_schedules.json`
 - 臨時ダイヤ時刻表: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special/{type}/{direction}_sfc.json`
   - 例: `https://sugijotaro.github.io/sfc-bus-schedule/data/v1/special/special_20250705/to_sfc.json`
+
+臨時ダイヤは湘南台駅発着の便のみが対象です。辻堂駅発着の便は臨時ダイヤに含まれません。
 
 これらのURLに直接アクセスすることで、JSONデータを取得できます。CORSも有効になっているため、Webアプリケーションから直接利用可能です。
 
@@ -148,7 +156,7 @@
 
 時刻表の確認や更新には、`.agents/skills/`に用意されたAgent用Skillを利用できます。公式情報の確認方法、データの反映方針、検証手順がSkillにまとまっているため、時刻表データに詳しくない方もぜひAgentを使ったコントリビューションを試してみてください。
 
-- [`$sfc-timetable-audit`](.agents/skills/sfc-timetable-audit/SKILL.md): 湘19・湘23・湘24・湘25・湘28の現在有効な通常ダイヤを神奈中公式サイトと照合し、差分と修正方針を報告します。特別ダイヤは対象外です。
+- [`$sfc-timetable-audit`](.agents/skills/sfc-timetable-audit/SKILL.md): 湘19・湘23・湘24・湘25・湘28・辻34・辻35の現在有効な通常ダイヤを神奈中公式サイトと照合し、差分と修正方針を報告します。特別ダイヤは対象外です。
 - [`$sfc-special-schedule`](.agents/skills/sfc-special-schedule/SKILL.md): 大学行事などに伴う日付指定の特別ダイヤを、公式のお知らせや時刻表PDFから作成・検証します。
 
 例えば、Agentに「`$sfc-timetable-audit`を使って現在の通常ダイヤを確認して」と依頼すると、公式サイトとの照合結果と修正候補を確認できます。内容を確認して修正を依頼した後、変更内容を検証し、Pull Requestとして提案してください。特別ダイヤを追加する場合は、対象日と公式のお知らせを示して`$sfc-special-schedule`を利用します。
